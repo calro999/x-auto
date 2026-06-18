@@ -10,7 +10,7 @@ jobs:
   post-tips:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       models: read
 
     steps:
@@ -34,3 +34,15 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python japanese_tips_poster.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add history.json
+        if ! git diff --cached --exit-code; then
+          git commit -m "chore: update japanese tips history [skip ci]"
+          git push
+        else
+          echo "No changes in history.json"
+        fi
