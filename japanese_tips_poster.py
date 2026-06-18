@@ -44,7 +44,7 @@ def main():
         "3. มีตัวอย่างคำศัพท์ภาษาญี่ปุ่น, คำอ่านภาษาไทย และคำแปลภาษาไทย\n"
         "4. ห้ามใช้ตัวหนาแบบ Markdown (ห้ามใส่ **) ให้ใช้ข้อความธรรมดาเท่านั้น\n"
         "5. ลงท้ายด้วยแฮชแท็ก #เรียนภาษาญี่ปุ่น #ภาษาญี่ปุ่น #N5 และต่อท้ายด้วยลิงก์เว็บไซต์ yui-yuto.com เสมอ\n"
-        "6. ในบรรทัดแรกสุดของข้อความที่ส่งกลับมา ให้พิมพ์คำว่า \"คีย์เวิร์ด: [คำศัพท์หรือคำภาษาญี่ปุ่นสั้นๆ 1 คำที่เลือก]\" เสมอ (ห้ามใช้การผสมคำช่วยที่ไม่มีความหมาย เช่น 'はとが' หรือประโยคยาว ให้เลือกคำเดี่ยวๆ หรือหัวข้อสั้นๆ เช่น 'ねこ', '美味しい', 'ありがとう', 'คำช่วย は') เพื่อใช้ตรวจสอบประวัติ\n\n"
+        "6. ในบรรทัดแรกสุดของข้อความที่ส่งกลับมา ให้พิมพ์คำว่า \"คีย์เวิร์ด: [คำศัพท์หรือคำภาษาญี่ปุ่นสั้นๆ 1 คำที่เลือก]\" เสมอ (ห้ามใช้การผสมคำช่วยที่ไม่มีความหมาย เช่น 'はとก' หรือประโยคยาว ให้เลือกคำเดี่ยวๆ หรือหัวข้อสั้นๆ เช่น 'ねこ', '美味しい', 'ありがとう', 'คำช่วย は') เพื่อใช้ตรวจสอบประวัติ\n\n"
         "【ตัวอย่างรูปแบบข้อความ】\n"
         "คีย์เวิร์ด: ...\n"
         "เรียนภาษาญี่ปุ่นง่ายๆ วันนี้เสนอคำว่า \"...\"\n"
@@ -54,53 +54,51 @@ def main():
         "#เรียนภาษาญี่ปุ่น #ภาษาญี่ปุ่น #N5 yui-yuto.com"
     )
     
-    try:
-        raw_content = generator.generate_text(prompt, system_instruction)
-    except Exception as e:
-        print(f"Error during LLM generation: {e}")
-        raw_content = None
-        
-    if not raw_content:
-        if os.environ.get("GITHUB_ACTIONS") == "true":
-            print("Error: Generated content is empty in GitHub Actions.")
-            sys.exit(1)
-        else:
-            print("WARNING: All free LLM APIs failed. Since this is a local dry-run, using dummy tips content.")
-            raw_content = (
-                "คีย์เวิร์ด: こんにちは\n"
-                "เรียนภาษาญี่ปุ่นง่ายๆ วันนี้เสนอคำว่า 「こんにちは (konnichiwa)」 ที่แปลว่า สวัสดีตอนบ่าย ครับ!\n\n"
-                "คำนี้เป็นคำทักทายพื้นฐานที่ใช้ทั่วไปในชีวิตประจำวัน สามารถใช้ทักทายคนทั่วไปได้ตลอดทั้งวันจนถึงช่วงเย็นครับ\n\n"
-                "ตัวอย่าง:\n"
-                "こんにちは (อ่านว่า: คอนนิชิวะ) = สวัสดี / สวัสดีตอนบ่าย\n\n"
-                "#เรียนภาษาญี่ปุ่น #ภาษาญี่ปุ่น #N5 yui-yuto.com"
-            )
-            
-    # キーワードの抽出と投稿用コンテンツの分離
+    tips_content = None
     keyword = None
-    tips_content_lines = []
+    max_retries = 3
     
-    for line in raw_content.strip().split("\n"):
-        match = re.match(r"^คีย์เวิร์ด\s*:\s*(.+)$", line, re.IGNORECASE)
-        if match:
-            keyword = match.group(1).strip()
-        else:
-            # 最初の空行などをスキップ（キーワード行の直後の空行）
-            if not tips_content_lines and not line.strip():
+    for attempt in range(max_retries):
+        print(f"Attempt {attempt + 1}/{max_retries} to generate and parse tips content...")
+        try:
+            raw_content = generator.generate_text(prompt, system_instruction)
+            if not raw_content:
+                print(f"LLM returned empty content on attempt {attempt + 1}.")
                 continue
-            tips_content_lines.append(line)
             
-    tips_content = "\n".join(tips_content_lines).strip()
-    
-    if not keyword:
-        # フォールバック: キーワードが抽出できない場合は最初の行から切り出しを試みるなど
-        print("Warning: Keyword could not be parsed. Trying fallback extraction.")
-        # とりあえず最初の行から推測するか、"unknown" とする
-        keyword = "unknown_topic_" + str(len(history) + 1)
+            # キーワードの抽出และ投稿用コンテンツの分離
+            parsed_keyword = None
+            tips_content_lines = []
+            
+            for line in raw_content.strip().split("\n"):
+                match = re.match(r"^คีย์เวิร์ด\s*:\s*(.+)$", line, re.IGNORECASE)
+                if match:
+                    parsed_keyword = match.group(1).strip()
+                else:
+                    if not tips_content_lines and not line.strip():
+                        continue
+                    tips_content_lines.append(line)
+            
+            parsed_content = "\n".join(tips_content_lines).strip()
+            
+            if parsed_keyword and parsed_content:
+                keyword = parsed_keyword
+                tips_content = parsed_content
+                print(f"Successfully generated and parsed content on attempt {attempt + 1}!")
+                break
+            else:
+                print(f"Attempt {attempt + 1} failed: Keyword ('{parsed_keyword}') or content is missing.")
+        except Exception as e:
+            print(f"Error during attempt {attempt + 1}: {e}")
+            
+    if not tips_content or not keyword:
+        print("CRITICAL ERROR: Failed to generate valid Japanese tips content and keyword after all retries.")
+        sys.exit(1)
         
     print(f"Extracted Keyword: {keyword}")
     
     # 履歴への追加と保存
-    if keyword and keyword != "unknown" and keyword not in history:
+    if keyword not in history:
         history.append(keyword)
         try:
             with open(history_file, "w", encoding="utf-8") as f:
