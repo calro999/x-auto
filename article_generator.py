@@ -25,11 +25,11 @@ class ArticleGenerator:
             try:
                 print(f"Attempting generation with {name}...")
                 res = gen_fn(prompt)
-                if res and len(res.strip()) > 50:
+                if res and len(res.strip()) > 20:
                     print(f"Successfully generated text using {name}!")
                     return res.strip()
                 else:
-                    print(f"{name} returned empty or too short response. Trying next fallback...")
+                    print(f"{name} returned empty or too short response (less than 20 chars). Trying next fallback...")
             except Exception as e:
                 print(f"Error calling {name}: {e}. Trying next fallback...")
         return None
