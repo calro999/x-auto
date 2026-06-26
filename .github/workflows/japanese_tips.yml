@@ -3,7 +3,7 @@ name: Thai Japanese Tips Auto Poster
 on:
   schedule:
     # 1日に4回 (UTC 0:00, 6:00, 12:00, 18:00 -> JST 9:00, 15:00, 21:00, 3:00) 実行
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '20 */2 * * *'
   workflow_dispatch:
 
 jobs:
