@@ -2,8 +2,8 @@ name: Thai Japanese Tips Auto Poster
 
 on:
   schedule:
-    # 1日に4回 (UTC 0:00, 6:00, 12:00, 18:00 -> JST 9:00, 15:00, 21:00, 3:00) 実行
-    - cron: '20 */2 * * *'
+    # 1日に5回実行 (UTC 0:00, 5:00, 10:00, 15:00, 20:00 -> JST 9:00, 14:00, 19:00, 0:00, 5:00)
+    - cron: '0 0,5,10,15,20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,11 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      models: read
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+
+    - name: Checkout yui-universe repository
+      uses: actions/checkout@v4
+      with:
+        repository: 'calro999/yui-universe'
+        path: 'yui-universe'
+        # プライベートリポジトリの場合は、以下のようにPATトークンを設定する必要があります
+        # token: ${{ secrets.YUI_UNIVERSE_GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -28,21 +35,21 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Japanese Tips Poster
+    - name: Run SNS Posts Generator
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        python japanese_tips_poster.py
+        python generate_sns_posts.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add history.json
+        git add output/ used_articles.txt
         if ! git diff --cached --exit-code; then
-          git commit -m "chore: update japanese tips history [skip ci]"
+          git commit -m "chore: generate new Thai SNS posts [skip ci]"
           git push
         else
-          echo "No changes in history.json"
+          echo "No changes to commit"
         fi

@@ -5,10 +5,15 @@ import sys
 from article_generator import ArticleGenerator
 
 # 設定
-YUI_UNIVERSE_DIR = "/Users/calro/Desktop/yui-universe"
 WORKSPACE_DIR = "/Users/calro/Downloads/x-auto"
 OUTPUT_DIR = os.path.join(WORKSPACE_DIR, "output")
 USED_ARTICLES_FILE = os.path.join(WORKSPACE_DIR, "used_articles.txt")
+
+# ローカルデバッグ用とGitHub Actions環境でのパスの自動判定
+if os.path.exists("/Users/calro/Desktop/yui-universe"):
+    YUI_UNIVERSE_DIR = "/Users/calro/Desktop/yui-universe"
+else:
+    YUI_UNIVERSE_DIR = os.path.join(WORKSPACE_DIR, "yui-universe")
 
 def load_used_articles() -> set:
     if os.path.exists(USED_ARTICLES_FILE):
@@ -54,27 +59,26 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
     link = f"yui-yuto.com/{article_name}"
     
     system_instruction = (
-        "คุณเป็นครูสอนภาษาญี่ปุ่นและผู้เชี่ยวชาญด้าน SNS ให้เขียนโพสต์แนะนำบทความสำหรับคนไทยที่ต้องการเรียนภาษาญี่ปุ่นหรือทำงานในญี่ปุ่น เพื่อโพสต์ลง X (Twitter)"
+        "คุณเป็นครูสอนภาษาญี่ปุ่นและผู้เชี่ยวชาญด้าน SNS ที่เก่งมากในการเขียนคำโปรยดึงดูดใจ ให้เขียนโพสต์แนะนำบทความสำหรับคนไทยเพื่อโพสต์ลง X (Twitter)"
     )
     
+    # 無料API（PollinationsやGPT-4o-mini）が理解しやすいようにシンプルで強力なプロンプトにする
     prompt = (
-        f"จากข้อมูลบทความต่อไปนี้:\n"
-        f"ชื่อบทความ (Title): {title}\n"
-        f"คำอธิบาย (Description): {description}\n\n"
-        f"กรุณาสร้างข้อความสำหรับโพสต์ลง X (Twitter) โดยมีเงื่อนไขสำคัญดังนี้:\n"
-        f"1. อธิบายว่าผู้ใช้อ่านบทความนี้แล้วจะได้เรียนรู้อะไรบ้าง เป็นภาษาไทยที่น่าสนใจและดึงดูดใจ (สไตล์การเขียนแบบ X/Twitter ที่มีโอกาสเป็นไวรัล)\n"
-        f"2. ความยาวของข้อความอธิบายต้องไม่เกิน 90 ตัวอักษร (ไม่รวมลิงก์)\n"
-        f"3. ห้ามใช้ตัวหนา Markdown (**)\n"
-        f"4. ห้ามใส่เครื่องหมายคำพูด (เช่น \" หรือ ') รอบข้อความทั้งหมด\n"
-        f"5. ข้อความสุดท้ายต้องลงท้ายด้วยลิงก์นี้: {link}\n"
-        f"6. เมื่อรวมข้อความทั้งหมดแล้ว (รวมข้อความอธิบาย, การเว้นบรรทัด, และลิงก์) ความยาวรวมต้องไม่เกิน 140 ตัวอักษรเด็ดขาด! (สำคัญมาก)\n\n"
-        f"รูปแบบผลลัพธ์ที่ต้องการ (ให้มีขึ้นบรรทัดใหม่ตามตัวอย่างนี้ โดยไม่ต้องมีเครื่องหมายคำพูดปิดหัวท้าย):\n"
-        f"[ข้อความโปรโมทบรรทัดที่ 1]\n"
-        f"[ข้อความโปรโมทบรรทัดที่ 2]\n"
+        f"เขียนข้อความสั้นๆ สำหรับโพสต์ลง X (Twitter) เพื่อโปรโมทบทความนี้:\n"
+        f"หัวข้อบทความ: {title}\n"
+        f"รายละเอียดบทความ: {description}\n\n"
+        f"เงื่อนไขบังคับ:\n"
+        f"1. สรุป 'ประโยชน์/สิ่งที่จะได้เรียนรู้' จากบทความนี้ให้คนอ่านอยากคลิก (สไตล์ดึงดูดใจคนอ่านสูง)\n"
+        f"2. ข้อความทั้งหมด (รวมลิงก์ด้านล่างนี้) ต้องยาวไม่เกิน 140 ตัวอักษรเด็ดขาด!\n"
+        f"3. บรรทัดสุดท้ายต้องลงท้ายด้วยลิงก์นี้เท่านั้น: {link}\n"
+        f"4. ห้ามใส่เครื่องหมายคำพูดคำพูดปิดหัวท้าย\n\n"
+        f"ตัวอย่างผลลัพธ์ที่ต้องการ:\n"
+        f"อยากทำพาร์ทไทม์เซเว่นญี่ปุ่น?🏪 สอนภาษาญี่ปุ่นหน้าแคชเชียร์ ประโยคคุยกับลูกค้าและศัพท์ที่ใช้จริง อ่านจบทำงานได้เลย👇\n"
         f"{link}"
     )
 
     max_retries = 3
+    generated = None
     for attempt in range(max_retries):
         print(f"Generating post for {file_name} (Attempt {attempt+1}/{max_retries})...")
         generated = generator.generate_text(prompt, system_instruction)
@@ -99,10 +103,12 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
                 print(f"Generated text too long ({total_len} chars). Retrying with stricter limit...")
                 prompt += "\n\n【เตือนความจำ】ข้อความยาวเกินไป! กรุณาเขียนให้สั้นลงอีกเพื่อให้รวมลิงก์แล้วไม่เกิน 140 ตัวอักษร"
 
+    # API呼び出しが全て失敗した、または適切な長さで生成できなかった場合はエラーを投げる
+    if not generated or len(generated) < 20:
+        raise RuntimeError(f"Failed to generate a valid post content for {file_name} due to API issues.")
+
     # リトライしても140文字を超えてしまった場合の最終手段（強制トリミング）
     print("Warning: Forced to truncate the generated post to fit 140 characters.")
-    if not generated:
-        generated = f"เรียนภาษาญี่ปุ่นจากบทความนี้กันเถอะ! 🇯🇵"
     # リンクの長さを引いた残りの文字数に収まるように説明部分をカット
     link_part = f"\n{link}"
     max_desc_len = 140 - len(link_part)
