@@ -53,6 +53,7 @@ def extract_meta_info(file_name: str) -> tuple:
     content = ""
     
     # 1. ローカルファイルが存在する場合はローカルから読み込む
+    # file_name は 'anime/th-xxx.html' のような相対パス
     local_path = os.path.join(LOCAL_YUI_UNIVERSE_DIR, file_name)
     if os.path.exists(local_path):
         try:
@@ -63,7 +64,8 @@ def extract_meta_info(file_name: str) -> tuple:
             print(f"Error reading local file {file_name}: {e}")
     else:
         # 2. 存在しない場合（GitHub Actions環境など）は公開ウェブサイトからスクレイピング
-        article_name = file_name.replace(".html", "")
+        base_name = os.path.basename(file_name)
+        article_name = base_name.replace(".html", "")
         url = f"https://yui-yuto.com/{article_name}"
         try:
             print(f"Fetching metadata from public URL: {url}")
@@ -97,7 +99,8 @@ def extract_meta_info(file_name: str) -> tuple:
     return title, description
 
 def generate_post_for_article(generator: ArticleGenerator, file_name: str, title: str, description: str) -> str:
-    article_name = file_name.replace(".html", "")
+    base_name = os.path.basename(file_name)
+    article_name = base_name.replace(".html", "")
     link = f"yui-yuto.com/{article_name}"
     
     system_instruction = (
@@ -165,8 +168,14 @@ def main():
     all_files = []
     # 1. ローカルフォルダが存在する場合はスキャンし、リストを更新
     if os.path.exists(LOCAL_YUI_UNIVERSE_DIR):
-        all_files = [f for f in os.listdir(LOCAL_YUI_UNIVERSE_DIR) if f.startswith("th-") and f.endswith(".html")]
-        print(f"Scanned {len(all_files)} total Thai articles from local directory.")
+        for root, dirs, files in os.walk(LOCAL_YUI_UNIVERSE_DIR):
+            for f in files:
+                if f.startswith("th-") and f.endswith(".html"):
+                    # LOCAL_YUI_UNIVERSE_DIR からの相対パスを取得
+                    rel_path = os.path.relpath(os.path.join(root, f), LOCAL_YUI_UNIVERSE_DIR)
+                    all_files.append(rel_path)
+        all_files = list(set(all_files)) # 重複排除
+        print(f"Scanned {len(all_files)} total Thai articles from local directories (including subfolders).")
         update_article_list(all_files)
     else:
         # 2. 存在しない場合（GitHub Actions環境）は保存されたリストから読み込み
@@ -215,7 +224,8 @@ def main():
             f"{post_content}\n"
         )
         
-        article_name = file_name.replace(".html", "")
+        base_name = os.path.basename(file_name)
+        article_name = base_name.replace(".html", "")
         output_file_path = os.path.join(OUTPUT_DIR, f"{article_name}.txt")
         
         with open(output_file_path, "w", encoding="utf-8") as f:
