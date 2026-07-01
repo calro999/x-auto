@@ -80,6 +80,13 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
         generated = generator.generate_text(prompt, system_instruction)
         if generated:
             generated = generated.strip().strip('"').strip("'")
+            
+            # 異常な長文（例: 250文字以上）はAPIの誤作動（プロンプトの鸚鵡返しなど）として弾く
+            if len(generated) > 250:
+                print(f"Generated text is abnormally long ({len(generated)} chars). Retrying...")
+                prompt += "\n\n【เตือนความจำ】ข้อความยาวเกินไป! กรุณาตอบให้สั้นลงอย่างมาก"
+                continue
+
             # リンクが最後に入っているか確認し、無ければ付与
             if link not in generated:
                 generated = f"{generated}\n{link}"
@@ -94,6 +101,8 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
 
     # リトライしても140文字を超えてしまった場合の最終手段（強制トリミング）
     print("Warning: Forced to truncate the generated post to fit 140 characters.")
+    if not generated:
+        generated = f"เรียนภาษาญี่ปุ่นจากบทความนี้กันเถอะ! 🇯🇵"
     # リンクの長さを引いた残りの文字数に収まるように説明部分をカット
     link_part = f"\n{link}"
     max_desc_len = 140 - len(link_part)
