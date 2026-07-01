@@ -8,12 +8,10 @@ from article_generator import ArticleGenerator
 WORKSPACE_DIR = "/Users/calro/Downloads/x-auto"
 OUTPUT_DIR = os.path.join(WORKSPACE_DIR, "output")
 USED_ARTICLES_FILE = os.path.join(WORKSPACE_DIR, "used_articles.txt")
+ARTICLE_LIST_FILE = os.path.join(WORKSPACE_DIR, "article_list.json")
 
-# ローカルデバッグ用とGitHub Actions環境でのパスの自動判定
-if os.path.exists("/Users/calro/Desktop/yui-universe"):
-    YUI_UNIVERSE_DIR = "/Users/calro/Desktop/yui-universe"
-else:
-    YUI_UNIVERSE_DIR = os.path.join(WORKSPACE_DIR, "yui-universe")
+# ローカルデバッグ用
+LOCAL_YUI_UNIVERSE_DIR = "/Users/calro/Desktop/yui-universe"
 
 def load_used_articles() -> set:
     if os.path.exists(USED_ARTICLES_FILE):
@@ -26,31 +24,73 @@ def save_used_articles(used_set: set):
         for item in sorted(used_set):
             f.write(f"{item}\n")
 
-def extract_meta_info(file_path: str) -> tuple:
+import json
+
+def update_article_list(files: list):
+    """ローカルデバッグ時にファイル一覧をjsonに保存する"""
+    try:
+        with open(ARTICLE_LIST_FILE, "w", encoding="utf-8") as f:
+            json.dump(files, f, ensure_ascii=False, indent=2)
+        print(f"Updated article_list.json with {len(files)} articles.")
+    except Exception as e:
+        print(f"Failed to update article_list.json: {e}")
+
+def load_article_list() -> list:
+    """保存されたファイル一覧を読み込む"""
+    if os.path.exists(ARTICLE_LIST_FILE):
+        try:
+            with open(ARTICLE_LIST_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading article_list.json: {e}")
+    return []
+
+def extract_meta_info(file_name: str) -> tuple:
     title = ""
     description = ""
-    try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-            
-        # titleの抽出
-        title_match = re.search(r"<title>(.*?)</title>", content, re.IGNORECASE | re.DOTALL)
-        if title_match:
-            title = title_match.group(1).strip()
-            # パイプやサイト名などの余計な部分をカット
-            title = re.split(r"[|【]", title)[0].strip()
+    content = ""
+    
+    # 1. ローカルファイルが存在する場合はローカルから読み込む
+    local_path = os.path.join(LOCAL_YUI_UNIVERSE_DIR, file_name)
+    if os.path.exists(local_path):
+        try:
+            with open(local_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            print(f"Read metadata from local file: {file_name}")
+        except Exception as e:
+            print(f"Error reading local file {file_name}: {e}")
+    else:
+        # 2. 存在しない場合（GitHub Actions環境など）は公開ウェブサイトからスクレイピング
+        article_name = file_name.replace(".html", "")
+        url = f"https://yui-yuto.com/{article_name}"
+        try:
+            print(f"Fetching metadata from public URL: {url}")
+            resp = requests.get(url, timeout=15)
+            if resp.status_code == 200:
+                content = resp.text
+            else:
+                print(f"Failed to fetch URL (Status {resp.status_code}): {url}")
+        except Exception as e:
+            print(f"Error fetching URL {url}: {e}")
 
-        # descriptionの抽出
-        desc_match = re.search(r'<meta[^>]*name="description"[^>]*content="([^"]*)"', content, re.IGNORECASE)
-        if not desc_match:
-            desc_match = re.search(r'<meta[^>]*content="([^"]*)"[^>]*name="description"', content, re.IGNORECASE)
-        if desc_match:
-            description = desc_match.group(1).strip()
-            # 長すぎるディスクリプションは前半だけ使う
-            if len(description) > 100:
-                description = description[:100] + "..."
-    except Exception as e:
-        print(f"Error reading metadata from {file_path}: {e}")
+    if content:
+        try:
+            # titleの抽出
+            title_match = re.search(r"<title>(.*?)</title>", content, re.IGNORECASE | re.DOTALL)
+            if title_match:
+                title = title_match.group(1).strip()
+                title = re.split(r"[|【]", title)[0].strip()
+
+            # descriptionの抽出
+            desc_match = re.search(r'<meta[^>]*name="description"[^>]*content="([^"]*)"', content, re.IGNORECASE)
+            if not desc_match:
+                desc_match = re.search(r'<meta[^>]*content="([^"]*)"[^>]*name="description"', content, re.IGNORECASE)
+            if desc_match:
+                description = desc_match.group(1).strip()
+                if len(description) > 100:
+                    description = description[:100] + "..."
+        except Exception as e:
+            print(f"Error parsing meta content: {e}")
         
     return title, description
 
@@ -118,16 +158,23 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
 def main():
     print("Starting X Post Content Generator...")
     
-    if not os.path.exists(YUI_UNIVERSE_DIR):
-        print(f"Error: Directory {YUI_UNIVERSE_DIR} does not exist.")
-        sys.exit(1)
-        
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # 対象のHTMLファイルをスキャン (th-で始まるHTMLファイル)
-    all_files = [f for f in os.listdir(YUI_UNIVERSE_DIR) if f.startswith("th-") and f.endswith(".html")]
-    print(f"Found {len(all_files)} total Thai articles.")
-    
+    all_files = []
+    # 1. ローカルフォルダが存在する場合はスキャンし、リストを更新
+    if os.path.exists(LOCAL_YUI_UNIVERSE_DIR):
+        all_files = [f for f in os.listdir(LOCAL_YUI_UNIVERSE_DIR) if f.startswith("th-") and f.endswith(".html")]
+        print(f"Scanned {len(all_files)} total Thai articles from local directory.")
+        update_article_list(all_files)
+    else:
+        # 2. 存在しない場合（GitHub Actions環境）は保存されたリストから読み込み
+        all_files = load_article_list()
+        print(f"Loaded {len(all_files)} total Thai articles from article_list.json.")
+        
+    if not all_files:
+        print("No articles found to process. Please run locally first to generate article_list.json.")
+        sys.exit(1)
+        
     used_articles = load_used_articles()
     print(f"Loaded {len(used_articles)} used articles.")
     
@@ -153,8 +200,7 @@ def main():
     generator = ArticleGenerator()
     
     for file_name in selected_files:
-        file_path = os.path.join(YUI_UNIVERSE_DIR, file_name)
-        title, description = extract_meta_info(file_path)
+        title, description = extract_meta_info(file_name)
         print(f"Article: {file_name} | Title: {title} | Desc: {description}")
         
         post_content = generate_post_for_article(generator, file_name, title, description)

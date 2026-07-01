@@ -16,14 +16,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Checkout yui-universe repository
-      uses: actions/checkout@v4
-      with:
-        repository: 'calro999/yui-universe'
-        path: 'yui-universe'
-        # プライベートリポジトリの場合は、以下のようにPATトークンを設定する必要があります
-        # token: ${{ secrets.YUI_UNIVERSE_GITHUB_TOKEN }}
-
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -46,7 +38,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add output/ used_articles.txt
+        git add output/ used_articles.txt article_list.json
         if ! git diff --cached --exit-code; then
           git commit -m "chore: generate new Thai SNS posts [skip ci]"
           git push
