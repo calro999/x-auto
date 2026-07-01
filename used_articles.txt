@@ -10,8 +10,10 @@ th-esd-salary-taxes-remittance.html
 th-hair-salon-japanese.html
 th-hazu-ga-nai-usage.html
 th-kekkou-ii-difference.html
+th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
 th-learn-japanese-free.html
+th-mitai-rashii.html
 th-nagara-tsuide-parallel.html
 th-ni-shitagatte-usage.html
 th-niyorto-hanashide-source.html
@@ -24,4 +26,5 @@ th-top-cities-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
+th-utilities-setup-japanese.html
 th-yasui-gachi-difference.html
