@@ -122,13 +122,13 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
         f"{link}"
     )
 
-    max_retries = 3
+    max_retries = 5
     generated = None
     import time
     for attempt in range(max_retries):
         if attempt > 0:
-            print("Waiting 3 seconds before retry...")
-            time.sleep(3)
+            print("Waiting 5 seconds before retry...")
+            time.sleep(5)
         print(f"Generating post for {file_name} (Attempt {attempt+1}/{max_retries})...")
         generated = generator.generate_text(prompt, system_instruction)
         if generated:
