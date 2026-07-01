@@ -6,9 +6,12 @@ th-bicycle-japan-rules.html
 th-emergency-tips-japanese.html
 th-esd-salary-taxes-remittance.html
 th-hair-salon-japanese.html
+th-kekkou-ii-difference.html
 th-koto-da-vs-mono-da-difference.html
 th-learn-japanese-free.html
 th-nagara-tsuide-parallel.html
+th-ni-shitagatte-usage.html
+th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-top-cities-japanese.html
 th-ultimate-matcha-guide.html
