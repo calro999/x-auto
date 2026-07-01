@@ -4,9 +4,11 @@ th-baito-colleague-talk.html
 th-baito-manager-report.html
 th-bakari-ka-usage.html
 th-bicycle-japan-rules.html
+th-dakedenaku-nominarazu-difference.html
 th-emergency-tips-japanese.html
 th-esd-salary-taxes-remittance.html
 th-hair-salon-japanese.html
+th-hazu-ga-nai-usage.html
 th-kekkou-ii-difference.html
 th-koto-da-vs-mono-da-difference.html
 th-learn-japanese-free.html
@@ -18,4 +20,5 @@ th-sushi-pro-japanese.html
 th-top-cities-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
+th-untranslatable-japanese.html
 th-yasui-gachi-difference.html
