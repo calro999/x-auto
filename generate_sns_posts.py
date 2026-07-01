@@ -2,6 +2,7 @@ import os
 import re
 import random
 import sys
+import requests
 from article_generator import ArticleGenerator
 
 # 設定

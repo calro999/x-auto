@@ -1,9 +1,12 @@
+th-airport-japanese.html
 th-baito-colleague-talk.html
 th-baito-manager-report.html
+th-bakari-ka-usage.html
 th-bicycle-japan-rules.html
 th-emergency-tips-japanese.html
 th-esd-salary-taxes-remittance.html
 th-hair-salon-japanese.html
 th-koto-da-vs-mono-da-difference.html
 th-nagara-tsuide-parallel.html
+th-sushi-pro-japanese.html
 th-top-cities-japanese.html
