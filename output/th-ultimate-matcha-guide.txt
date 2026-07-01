@@ -1,0 +1,6 @@
+file_name
+th-ultimate-matcha-guide.html
+sns_post
+
+{"role":"assistant","reasoning":"We need to produce a tweet of <=140 characters. Must end with link yu
+yui-yuto.com/th-ultimate-matcha-guide

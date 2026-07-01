@@ -5,7 +5,8 @@ import sys
 from article_generator import ArticleGenerator
 
 # 設定
-WORKSPACE_DIR = "/Users/calro/Downloads/x-auto"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+WORKSPACE_DIR = SCRIPT_DIR
 OUTPUT_DIR = os.path.join(WORKSPACE_DIR, "output")
 USED_ARTICLES_FILE = os.path.join(WORKSPACE_DIR, "used_articles.txt")
 ARTICLE_LIST_FILE = os.path.join(WORKSPACE_DIR, "article_list.json")
