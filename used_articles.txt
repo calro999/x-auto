@@ -2,6 +2,7 @@ otome/th-confession-guide-japan.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 th-airport-japanese.html
+th-apartment-hunting-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-colleague-talk.html
@@ -15,6 +16,8 @@ th-esd-salary-taxes-remittance.html
 th-festival-novel.html
 th-hair-salon-japanese.html
 th-hazu-ga-nai-usage.html
+th-health-insurance-japanese.html
+th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
