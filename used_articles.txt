@@ -17,13 +17,16 @@ th-festival-novel.html
 th-hair-salon-japanese.html
 th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
+th-jlpt-kanji-game.html
 th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
+th-koto-ni-suru-naru-difference.html
 th-learn-japanese-free.html
 th-mitai-rashii.html
 th-nagara-tsuide-parallel.html
+th-nara-tara-ba-to-difference.html
 th-ni-shitagatte-usage.html
 th-niyorto-hanashide-source.html
 th-restaurant-work-japanese.html
