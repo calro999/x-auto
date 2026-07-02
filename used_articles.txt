@@ -9,9 +9,11 @@ th-baito-colleague-talk.html
 th-baito-manager-report.html
 th-bakari-ka-usage.html
 th-bicycle-japan-rules.html
+th-clothing-verbs.html
 th-dakedenaku-nominarazu-difference.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-japanese-communication.html
 th-esd-salary-taxes-remittance.html
 th-festival-novel.html
 th-hair-salon-japanese.html
@@ -29,6 +31,7 @@ th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
 th-ni-shitagatte-usage.html
 th-niyorto-hanashide-source.html
+th-post-office-japan.html
 th-restaurant-work-japanese.html
 th-serving-food-japanese.html
 th-shiru-wakaru-difference.html
