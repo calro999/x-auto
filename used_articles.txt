@@ -2,6 +2,7 @@ otome/th-confession-guide-japan.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
+th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-apartment-hunting-japanese.html
 th-baito-age-verification.html
@@ -24,6 +25,7 @@ th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
 th-izakaya-payment-japanese.html
 th-jlpt-kanji-game.html
+th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
@@ -54,4 +56,5 @@ th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-utilities-setup-japanese.html
 th-wake-dewa-nai-usage.html
+th-wake-hazu-nai-difference.html
 th-yasui-gachi-difference.html
