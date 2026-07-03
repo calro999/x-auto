@@ -13,6 +13,7 @@ th-bicycle-japan-rules.html
 th-clothing-verbs.html
 th-convenience-store-hacks.html
 th-dakedenaku-nominarazu-difference.html
+th-dentist-japanese.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
@@ -33,6 +34,7 @@ th-mitai-rashii.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
 th-ni-shitagatte-usage.html
+th-nikui-zurai-difference.html
 th-niyorto-hanashide-source.html
 th-onsen-etiquette-japanese.html
 th-post-office-japan.html
@@ -42,6 +44,7 @@ th-shikoku-guide.html
 th-shiru-wakaru-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-thai-embassy-japan.html
 th-top-cities-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
