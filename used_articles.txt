@@ -10,6 +10,7 @@ th-baito-manager-report.html
 th-bakari-ka-usage.html
 th-bicycle-japan-rules.html
 th-clothing-verbs.html
+th-convenience-store-hacks.html
 th-dakedenaku-nominarazu-difference.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
@@ -19,6 +20,7 @@ th-festival-novel.html
 th-hair-salon-japanese.html
 th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
+th-izakaya-payment-japanese.html
 th-jlpt-kanji-game.html
 th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
@@ -34,6 +36,7 @@ th-niyorto-hanashide-source.html
 th-post-office-japan.html
 th-restaurant-work-japanese.html
 th-serving-food-japanese.html
+th-shikoku-guide.html
 th-shiru-wakaru-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
