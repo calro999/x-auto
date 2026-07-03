@@ -24,6 +24,7 @@ th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
 th-izakaya-payment-japanese.html
 th-jlpt-kanji-game.html
+th-jlpt-n4-vocabulary-essential.html
 th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
@@ -31,12 +32,14 @@ th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
 th-learn-japanese-free.html
 th-mitai-rashii.html
+th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
 th-niyorto-hanashide-source.html
 th-onsen-etiquette-japanese.html
+th-park-picnic-game.html
 th-post-office-japan.html
 th-restaurant-work-japanese.html
 th-serving-food-japanese.html
