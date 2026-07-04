@@ -1,6 +1,7 @@
 otome/th-confession-guide-japan.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
+otome/th-long-distance-relationship-tips.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
@@ -58,7 +59,9 @@ th-shikoku-guide.html
 th-shiru-wakaru-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-te-mo-ii-usage-permission.html
 th-thai-embassy-japan.html
+th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
