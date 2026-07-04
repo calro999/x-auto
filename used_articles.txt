@@ -4,6 +4,7 @@ otome/th-homesick-japanese-expat-care.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
+th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
@@ -20,6 +21,7 @@ th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
 th-esd-salary-taxes-remittance.html
+th-esd-visa-change-job.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-hair-salon-japanese.html
@@ -42,6 +44,7 @@ th-mono-koto-difference.html
 th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
+th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
 th-niyorto-hanashide-source.html
