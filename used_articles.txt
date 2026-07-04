@@ -45,6 +45,7 @@ th-mono-koto-difference.html
 th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
+th-ne-yo-yone.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
@@ -60,7 +61,9 @@ th-shiru-wakaru-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-te-mo-ii-usage-permission.html
+th-te-oku-aru-difference.html
 th-thai-embassy-japan.html
+th-tokoro-bakari-difference.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-ue-wa-usage.html
