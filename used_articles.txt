@@ -1,10 +1,12 @@
 otome/th-confession-guide-japan.html
+otome/th-dating-japanese-guy-rules.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
+otome/th-what-to-talk-about-japanese-date.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-akihabara-tour.html
@@ -65,6 +67,7 @@ th-onsen-etiquette-japanese.html
 th-park-picnic-game.html
 th-post-office-japan.html
 th-restaurant-work-japanese.html
+th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shiru-wakaru-difference.html
