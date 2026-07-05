@@ -1,7 +1,9 @@
 otome/th-confession-guide-japan.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
+otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-relationship-tips.html
+otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
@@ -45,6 +47,7 @@ th-koto-ni-suru-naru-difference.html
 th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
+th-madeni-uchini-time.html
 th-mitai-rashii.html
 th-mono-koto-difference.html
 th-moving-address-japanese.html
