@@ -11,6 +11,8 @@ th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-colleague-talk.html
 th-baito-manager-report.html
+th-baito-phone-japanese.html
+th-baito-recommend-menu.html
 th-bakari-ka-usage.html
 th-bicycle-japan-rules.html
 th-clothing-verbs.html
@@ -66,6 +68,7 @@ th-thai-embassy-japan.html
 th-tokoro-bakari-difference.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
+th-train-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
