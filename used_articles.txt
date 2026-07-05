@@ -28,8 +28,10 @@ th-esd-visa-change-job.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-hair-salon-japanese.html
+th-harajuku-fashion-game.html
 th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
+th-hotel-japanese.html
 th-izakaya-payment-japanese.html
 th-japanese-daily-life.html
 th-jlpt-kanji-game.html
@@ -41,6 +43,7 @@ th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
 th-learn-japanese-free.html
+th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-mitai-rashii.html
 th-mono-koto-difference.html
