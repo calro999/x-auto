@@ -2,6 +2,7 @@ otome/th-confession-guide-japan.html
 otome/th-dating-japanese-guy-rules.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
+otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
@@ -13,6 +14,7 @@ th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
+th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-manager-report.html
 th-baito-phone-japanese.html
@@ -67,6 +69,7 @@ th-onsen-etiquette-japanese.html
 th-park-picnic-game.html
 th-post-office-japan.html
 th-restaurant-work-japanese.html
+th-resume-writing-japanese.html
 th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
