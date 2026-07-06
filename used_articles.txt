@@ -51,6 +51,7 @@ th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
+th-koto-no-difference.html
 th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
@@ -66,6 +67,7 @@ th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
 th-niyorto-hanashide-source.html
+th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
 th-onsen-etiquette-japanese.html
 th-park-picnic-game.html
@@ -83,6 +85,7 @@ th-te-mo-ii-usage-permission.html
 th-te-oku-aru-difference.html
 th-thai-embassy-japan.html
 th-tokoro-bakari-difference.html
+th-tokoro-bakari-time.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-train-japanese.html
