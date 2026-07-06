@@ -25,6 +25,7 @@ th-clothing-verbs.html
 th-convenience-store-hacks.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
+th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
 th-emergency-tips-japanese.html
@@ -60,6 +61,7 @@ th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
 th-ne-yo-yone.html
+th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
@@ -68,6 +70,7 @@ th-oki-ni-goto-ni-difference.html
 th-onsen-etiquette-japanese.html
 th-park-picnic-game.html
 th-post-office-japan.html
+th-ramen-date-game.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-self-introduction-japanese.html
