@@ -41,11 +41,13 @@ th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
 th-hospital-japanese.html
 th-hotel-japanese.html
+th-internet-setup-japan.html
 th-izakaya-payment-japanese.html
 th-japanese-daily-life.html
 th-jlpt-kanji-game.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
+th-kansai-guide.html
 th-kara-ni-wa-usage.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
@@ -83,6 +85,7 @@ th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-oku-aru-difference.html
+th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
