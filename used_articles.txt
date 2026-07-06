@@ -81,6 +81,7 @@ th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shiru-wakaru-difference.html
+th-sumimasen-gomen-moushiwake-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-te-mo-ii-usage-permission.html
@@ -98,5 +99,7 @@ th-untranslatable-japanese.html
 th-utilities-setup-japanese.html
 th-wake-dewa-nai-usage.html
 th-wake-hazu-nai-difference.html
+th-warini-usage.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
+th-zaru-o-enai-usage.html
