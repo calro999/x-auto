@@ -8,6 +8,7 @@ otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-what-to-talk-about-japanese-date.html
+otome/th-why-japanese-hard-to-understand.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-akihabara-tour.html
@@ -59,6 +60,7 @@ th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-madeni-uchini-time.html
 th-mitai-rashii.html
+th-monjayaki-master.html
 th-mono-koto-difference.html
 th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
@@ -72,6 +74,7 @@ th-niyorto-hanashide-source.html
 th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
 th-onsen-etiquette-japanese.html
+th-osaka-guide.html
 th-park-picnic-game.html
 th-post-office-japan.html
 th-ramen-date-game.html
