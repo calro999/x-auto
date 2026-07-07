@@ -26,6 +26,7 @@ th-bicycle-japan-rules.html
 th-business-etiquette.html
 th-clothing-verbs.html
 th-convenience-store-hacks.html
+th-convenience-store-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-cushion-words-business.html
@@ -97,6 +98,7 @@ th-sushi-pro-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
+th-teita-teiru.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
 th-tokoro-bakari-difference.html
@@ -109,6 +111,7 @@ th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
+th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
 th-wake-hazu-nai-difference.html
 th-warini-usage.html
