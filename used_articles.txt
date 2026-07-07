@@ -18,6 +18,7 @@ th-baito-apology-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-manager-report.html
+th-baito-master-guide.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-bakari-ka-usage.html
@@ -42,6 +43,7 @@ th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
 th-hospital-japanese.html
 th-hotel-japanese.html
+th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-payment-japanese.html
 th-japanese-daily-life.html
@@ -88,6 +90,7 @@ th-sumimasen-gomen-moushiwake-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-te-mo-ii-usage-permission.html
+th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
