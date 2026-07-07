@@ -27,6 +27,7 @@ th-clothing-verbs.html
 th-convenience-store-hacks.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
+th-cushion-words-business.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
@@ -37,6 +38,7 @@ th-esd-salary-taxes-remittance.html
 th-esd-visa-change-job.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
+th-gimi-gachi-ppoi-difference.html
 th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
 th-hazu-ga-nai-usage.html
@@ -102,6 +104,7 @@ th-train-japanese.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
+th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
 th-wake-dewa-nai-usage.html
 th-wake-hazu-nai-difference.html
