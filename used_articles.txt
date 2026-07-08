@@ -53,6 +53,7 @@ th-hospital-japanese.html
 th-hotel-japanese.html
 th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
+th-izakaya-extra-order-japanese.html
 th-izakaya-payment-japanese.html
 th-japanese-daily-life.html
 th-jlpt-grammar-study.html
@@ -77,6 +78,7 @@ th-mono-koto-difference.html
 th-moving-address-japanese.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
+th-naru-suru-change.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
@@ -103,6 +105,7 @@ th-shiru-wakaru-difference.html
 th-sumimasen-gomen-moushiwake-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
