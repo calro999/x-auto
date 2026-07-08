@@ -66,6 +66,7 @@ th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-madeni-uchini-time.html
+th-masu-mase-difference.html
 th-mitai-rashii.html
 th-monjayaki-master.html
 th-mono-koto-difference.html
@@ -84,6 +85,7 @@ th-onsen-etiquette-japanese.html
 th-osaka-guide.html
 th-park-picnic-game.html
 th-post-office-japan.html
+th-railway-mastery.html
 th-ramen-date-game.html
 th-ramen-master-japanese.html
 th-restaurant-japanese.html
@@ -97,6 +99,7 @@ th-shiru-wakaru-difference.html
 th-sumimasen-gomen-moushiwake-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
