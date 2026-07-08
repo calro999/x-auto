@@ -41,6 +41,7 @@ th-esd-visa-change-job.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-gimi-gachi-ppoi-difference.html
+th-gyaru-japanese.html
 th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
 th-hazu-ga-nai-usage.html
@@ -85,6 +86,7 @@ th-park-picnic-game.html
 th-post-office-japan.html
 th-ramen-date-game.html
 th-ramen-master-japanese.html
+th-restaurant-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
@@ -115,6 +117,7 @@ th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
 th-wake-hazu-nai-difference.html
 th-warini-usage.html
+th-wo-kara-movement.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
 th-zaru-o-enai-usage.html
