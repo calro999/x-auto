@@ -22,6 +22,7 @@ th-baito-master-guide.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-bakari-ka-usage.html
+th-bank-document-japanese.html
 th-bicycle-japan-rules.html
 th-business-etiquette.html
 th-clothing-verbs.html
@@ -33,6 +34,7 @@ th-cushion-words-business.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
+th-driver-license-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
@@ -111,6 +113,7 @@ th-tokoro-bakari-time.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-train-japanese.html
+th-tsurete-shitagatte-difference.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
