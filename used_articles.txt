@@ -21,6 +21,7 @@ th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
+th-baito-waiting-apology.html
 th-bakari-ka-usage.html
 th-bank-document-japanese.html
 th-bicycle-japan-rules.html
@@ -54,6 +55,7 @@ th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-payment-japanese.html
 th-japanese-daily-life.html
+th-jlpt-grammar-study.html
 th-jlpt-kanji-game.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
@@ -114,6 +116,7 @@ th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-train-japanese.html
 th-tsurete-shitagatte-difference.html
+th-tsuujite-tooshite-difference.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
