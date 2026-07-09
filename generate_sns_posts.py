@@ -114,9 +114,10 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
         f"รายละเอียดบทความ: {description}\n\n"
         f"เงื่อนไขบังคับ:\n"
         f"1. สรุป 'ประโยชน์/สิ่งที่จะได้เรียนรู้' จากบทความนี้ให้คนอ่านอยากคลิก (สไตล์ดึงดูดใจคนอ่านสูง)\n"
-        f"2. ข้อความทั้งหมด (รวมลิงก์ด้านล่างนี้) ต้องยาวไม่เกิน 140 ตัวอักษรเด็ดขาด!\n"
-        f"3. บรรทัดสุดท้ายต้องลงท้ายด้วยลิงก์นี้เท่านั้น: {link}\n"
-        f"4. ห้ามใส่เครื่องหมายคำพูดคำพูดปิดหัวท้าย\n\n"
+        f"2. เฉพาะข้อความอธิบาย (ไม่รวมลิงก์) ต้องยาวประมาณ 70-80 ตัวอักษร และห้ามเกิน 85 ตัวอักษรเด็ดขาด!\n"
+        f"3. ข้อความทั้งหมด (รวมลิงก์ด้านล่างนี้) ต้องยาวไม่เกิน 140 ตัวอักษรเด็ดขาด!\n"
+        f"4. บรรทัดสุดท้ายต้องลงท้ายด้วยลิงก์นี้เท่านั้น: {link}\n"
+        f"5. ห้ามใส่เครื่องหมายคำพูดคำพูดปิดหัวท้าย\n\n"
         f"ตัวอย่างผลลัพธ์ที่ต้องการ:\n"
         f"อยากทำพาร์ทไทม์เซเว่นญี่ปุ่น?🏪 สอนภาษาญี่ปุ่นหน้าแคชเชียร์ ประโยคคุยกับลูกค้าและศัพท์ที่ใช้จริง อ่านจบทำงานได้เลย👇\n"
         f"{link}"
@@ -161,8 +162,19 @@ def generate_post_for_article(generator: ArticleGenerator, file_name: str, title
     # リンクの長さを引いた残りの文字数に収まるように説明部分をカット
     link_part = f"\n{link}"
     max_desc_len = 140 - len(link_part)
-    truncated = generated[:max_desc_len]
-    return f"{truncated}{link_part}"
+    
+    desc = generated.replace(link_part, "").replace(link, "").strip()
+    if len(desc) > max_desc_len:
+        truncated_desc = desc[:max_desc_len]
+        # 文の途中で切れないよう、スペースでの区切りを優先的に探す
+        last_space = truncated_desc.rfind(" ")
+        if last_space > 30:
+            desc = truncated_desc[:last_space]
+        else:
+            # 不自然な文字切れを避けるため、少し手前で切って綺麗なタイ語の文末表現（... อ่านเลย👇）を添える
+            desc = desc[:max_desc_len - 12] + "... อ่านเลย👇"
+            
+    return f"{desc}{link_part}"
 
 def main():
     print("Starting X Post Content Generator...")
