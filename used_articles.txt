@@ -109,8 +109,11 @@ th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shiru-wakaru-difference.html
+th-shrine-visit-game.html
+th-slang-trending-japanese.html
 th-ssw-industry-interview.html
 th-sumimasen-gomen-moushiwake-difference.html
+th-summer-festival-yui.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-tameni-youni-difference.html
