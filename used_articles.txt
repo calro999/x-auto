@@ -17,6 +17,7 @@ th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
+th-baito-drink-vocab.html
 th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-phone-japanese.html
@@ -32,6 +33,7 @@ th-convenience-store-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-cushion-words-business.html
+th-customer-greeting-japanese.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
@@ -43,6 +45,7 @@ th-esd-salary-taxes-remittance.html
 th-esd-visa-change-job.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
+th-garbage-sorting-japanese.html
 th-gimi-gachi-ppoi-difference.html
 th-gyaru-japanese.html
 th-hair-salon-japanese.html
