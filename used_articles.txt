@@ -9,6 +9,7 @@ otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
+th-ageku-sueni-difference.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-akihabara-tour.html
@@ -108,6 +109,7 @@ th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shiru-wakaru-difference.html
+th-ssw-industry-interview.html
 th-sumimasen-gomen-moushiwake-difference.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
@@ -116,6 +118,7 @@ th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
+th-teacher-romance-game.html
 th-teita-teiru.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
