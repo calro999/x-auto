@@ -24,6 +24,7 @@ th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-waiting-apology.html
 th-bakari-ka-usage.html
+th-bank-account-japanese.html
 th-bank-document-japanese.html
 th-bicycle-japan-rules.html
 th-business-etiquette.html
@@ -79,7 +80,9 @@ th-mitai-rashii.html
 th-monjayaki-master.html
 th-mono-koto-difference.html
 th-moving-address-japanese.html
+th-muke-muki-difference.html
 th-nagara-tsuide-parallel.html
+th-nakereba-naranai-usage-obligation.html
 th-nara-tara-ba-to-difference.html
 th-naru-suru-change.html
 th-ne-yo-yone.html
