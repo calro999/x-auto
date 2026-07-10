@@ -55,6 +55,7 @@ th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
 th-hazu-beki-difference.html
 th-hazu-ga-nai-usage.html
+th-hazu-wake-difference.html
 th-health-insurance-japanese.html
 th-hospital-japanese.html
 th-hotel-japanese.html
@@ -87,6 +88,7 @@ th-muke-muki-difference.html
 th-nagara-tsuide-parallel.html
 th-nakereba-naranai-usage-obligation.html
 th-nara-tara-ba-to-difference.html
+th-nara-usage.html
 th-naru-suru-change.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
@@ -113,6 +115,7 @@ th-shikoku-guide.html
 th-shiru-wakaru-difference.html
 th-shrine-visit-game.html
 th-slang-trending-japanese.html
+th-sou-youda-rashii.html
 th-ssw-industry-interview.html
 th-sumimasen-gomen-moushiwake-difference.html
 th-summer-festival-yui.html
