@@ -9,6 +9,7 @@ otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
+otome/th-why-japanese-men-shy.html
 th-ageku-sueni-difference.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
@@ -98,6 +99,7 @@ th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
+th-nishitewa-warini-difference.html
 th-niyorto-hanashide-source.html
 th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
@@ -112,6 +114,7 @@ th-restaurant-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
+th-sasete-kudasai-usage.html
 th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
