@@ -66,7 +66,9 @@ th-hotel-japanese.html
 th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
+th-izakaya-order-japanese.html
 th-izakaya-payment-japanese.html
+th-japanese-daily-etiquette.html
 th-japanese-daily-life.html
 th-jlpt-grammar-study.html
 th-jlpt-kanji-game.html
@@ -83,6 +85,7 @@ th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-madeni-uchini-time.html
+th-mama-nagara-difference.html
 th-masu-mase-difference.html
 th-mitai-rashii.html
 th-monjayaki-master.html
