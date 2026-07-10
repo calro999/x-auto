@@ -37,10 +37,13 @@ th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-cushion-words-business.html
 th-customer-greeting-japanese.html
+th-daijoubu-kamaimasen-refuse.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
+th-directions-japanese.html
 th-driver-license-japan.html
+th-drugstore-japanese.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
