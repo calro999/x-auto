@@ -13,6 +13,7 @@ otome/th-why-japanese-men-shy.html
 th-ageku-sueni-difference.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
+th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-age-verification.html
@@ -81,6 +82,7 @@ th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
 th-koto-no-difference.html
+th-kyoto-guide.html
 th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
@@ -121,6 +123,7 @@ th-sasete-kudasai-usage.html
 th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
+th-shinkansen-guide-japanese.html
 th-shiru-wakaru-difference.html
 th-shrine-visit-game.html
 th-slang-trending-japanese.html
