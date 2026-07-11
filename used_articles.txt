@@ -58,6 +58,7 @@ th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-garbage-sorting-japanese.html
 th-gimi-gachi-ppoi-difference.html
+th-grammar-master-guide.html
 th-gyaru-japanese.html
 th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
@@ -68,6 +69,7 @@ th-health-insurance-japanese.html
 th-hospital-japanese.html
 th-hotel-japanese.html
 th-ijou-ika-miman-chou.html
+th-ijouwa-karaniwa-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-order-japanese.html
@@ -124,6 +126,7 @@ th-restaurant-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
+th-saserareru-shieki-ukemi.html
 th-sasete-kudasai-usage.html
 th-self-introduction-japanese.html
 th-serving-food-japanese.html
