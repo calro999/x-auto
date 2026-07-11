@@ -4,6 +4,7 @@ otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
+otome/th-japanese-men-marriage-kekkon.html
 otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
@@ -40,6 +41,7 @@ th-convenience-store-baito.html
 th-convenience-store-hacks.html
 th-convenience-store-japanese.html
 th-convenience-store-vocab.html
+th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-cushion-words-business.html
@@ -143,6 +145,7 @@ th-sumimasen-gomen-moushiwake-difference.html
 th-summer-festival-yui.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-takoyaki-master.html
 th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
