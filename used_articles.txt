@@ -2,6 +2,7 @@ otome/th-confession-guide-japan.html
 otome/th-dating-japanese-guy-rules.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
+otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-relationship-tips.html
@@ -21,6 +22,7 @@ th-baito-apology-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-drink-vocab.html
+th-baito-greeting-japanese.html
 th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-phone-japanese.html
@@ -73,6 +75,7 @@ th-japanese-daily-etiquette.html
 th-japanese-daily-life.html
 th-jlpt-grammar-study.html
 th-jlpt-kanji-game.html
+th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-kansai-guide.html
