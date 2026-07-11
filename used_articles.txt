@@ -5,6 +5,7 @@ otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
+otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
@@ -17,6 +18,7 @@ th-airport-japanese.html
 th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
+th-apartment-vocab-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-change-handover.html
@@ -171,4 +173,5 @@ th-warini-usage.html
 th-wo-kara-movement.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
+th-yukata-festival-game.html
 th-zaru-o-enai-usage.html
