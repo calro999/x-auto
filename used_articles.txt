@@ -85,6 +85,7 @@ th-izakaya-payment-japanese.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
 th-japanese-daily-life.html
+th-jlpt-game.html
 th-jlpt-grammar-study.html
 th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
@@ -158,6 +159,7 @@ th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
 th-teacher-romance-game.html
 th-teita-teiru.html
+th-tekuru-teiku-difference.html
 th-teoku-tearu-keep.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
@@ -169,6 +171,7 @@ th-train-japanese.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-tsuujite-tooshite-difference.html
+th-uchi-aida-difference.html
 th-ue-wa-usage.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
