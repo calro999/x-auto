@@ -58,6 +58,7 @@ th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
 th-esd-salary-taxes-remittance.html
 th-esd-visa-change-job.html
+th-esd-visa-japan.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-garbage-sorting-japanese.html
@@ -88,6 +89,7 @@ th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-kansai-guide.html
 th-kara-ni-wa-usage.html
+th-karaoke-japanese.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
@@ -161,6 +163,7 @@ th-tokoro-bakari-time.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-train-japanese.html
+th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-tsuujite-tooshite-difference.html
 th-ue-wa-usage.html
