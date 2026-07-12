@@ -91,8 +91,10 @@ th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
+th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
 th-kara-ni-wa-usage.html
+th-kara-node-difference.html
 th-karaoke-japanese.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
@@ -160,6 +162,7 @@ th-te-oku-aru-difference.html
 th-teacher-romance-game.html
 th-teita-teiru.html
 th-tekuru-teiku-difference.html
+th-tempura-master.html
 th-teoku-tearu-keep.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
