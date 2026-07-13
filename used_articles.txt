@@ -32,6 +32,7 @@ th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
+th-baito-refuse-customer.html
 th-baito-waiting-apology.html
 th-bakari-ka-usage.html
 th-bank-account-japanese.html
@@ -93,6 +94,7 @@ th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
+th-job-interview-japanese.html
 th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
 th-kara-ni-wa-usage.html
@@ -194,5 +196,6 @@ th-warini-usage.html
 th-wo-kara-movement.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
+th-yori-hodo-comparison.html
 th-yukata-festival-game.html
 th-zaru-o-enai-usage.html
