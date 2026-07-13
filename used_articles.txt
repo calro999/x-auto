@@ -7,6 +7,7 @@ otome/th-japanese-conversation-skills-aizuchi.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-marriage-kekkon.html
 otome/th-japanese-men-psychology-love.html
+otome/th-long-distance-gift-omiyage.html
 otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
@@ -16,6 +17,7 @@ otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
 otome/th-why-japanese-men-shy.html
 th-ageku-sueni-difference.html
+th-ageru-kureru-morau.html
 th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-airport-survival-japanese.html
@@ -85,6 +87,7 @@ th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-order-japanese.html
 th-izakaya-payment-japanese.html
+th-japan-tax-guide.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
 th-japanese-daily-life.html
