@@ -156,6 +156,7 @@ th-sumimasen-gomen-moushiwake-difference.html
 th-summer-festival-yui.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-tai-mono-da-usage.html
 th-takoyaki-master.html
 th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
@@ -183,9 +184,11 @@ th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
+th-visa-renewal-japan.html
 th-visual-novel-thai.html
 th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
+th-wake-grammar-series-summary.html
 th-wake-hazu-nai-difference.html
 th-warini-usage.html
 th-wo-kara-movement.html
