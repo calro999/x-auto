@@ -105,6 +105,7 @@ th-kansai-guide.html
 th-kara-ni-wa-usage.html
 th-kara-node-difference.html
 th-karaoke-japanese.html
+th-keigo-comprehensive-guide.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
@@ -139,6 +140,7 @@ th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
 th-onsen-etiquette-japanese.html
 th-osaka-guide.html
+th-otome-game-thai.html
 th-park-picnic-game.html
 th-post-office-japan.html
 th-railway-mastery.html
@@ -184,6 +186,7 @@ th-top-cities-japanese.html
 th-totte-shite-taishite-difference.html
 th-train-japanese.html
 th-tsuite-kanshite-taishite-megutte.html
+th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
 th-tsuujite-tooshite-difference.html
 th-uchi-aida-difference.html
