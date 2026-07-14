@@ -26,6 +26,7 @@ th-apartment-hunting-japanese.html
 th-apartment-vocab-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
+th-baito-cashier-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-drink-vocab.html
@@ -101,6 +102,7 @@ th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
+th-jlpt-n5-study.html
 th-job-interview-japanese.html
 th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
@@ -126,6 +128,7 @@ th-mono-da-usage.html
 th-mono-koto-difference.html
 th-moving-address-japanese.html
 th-muke-muki-difference.html
+th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
 th-nakereba-naranai-usage-obligation.html
 th-nara-tara-ba-to-difference.html
