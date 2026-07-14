@@ -32,6 +32,7 @@ th-baito-drink-vocab.html
 th-baito-greeting-japanese.html
 th-baito-manager-report.html
 th-baito-master-guide.html
+th-baito-menu-explain.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
@@ -77,6 +78,7 @@ th-gyaru-japanese.html
 th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
 th-hazu-beki-difference.html
+th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-hazu-wake-difference.html
 th-health-insurance-japanese.html
@@ -182,6 +184,7 @@ th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
+th-toku-chau-spoken.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-totte-shite-taishite-difference.html
