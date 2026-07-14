@@ -68,6 +68,7 @@ th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
 th-esd-japanese-study.html
 th-esd-salary-taxes-remittance.html
+th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
 th-esd-visa-japan.html
 th-festival-novel.html
@@ -166,6 +167,7 @@ th-shikoku-guide.html
 th-shinkansen-guide-japanese.html
 th-shiru-wakaru-difference.html
 th-shrine-visit-game.html
+th-sim-card-japanese.html
 th-slang-trending-japanese.html
 th-sou-youda-rashii.html
 th-ssw-industry-interview.html
@@ -180,6 +182,7 @@ th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
 th-te-oku-aru-difference.html
+th-te-shimau-usage-regret.html
 th-teacher-romance-game.html
 th-teita-teiru.html
 th-tekuru-teiku-difference.html
