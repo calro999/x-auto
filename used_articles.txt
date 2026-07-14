@@ -142,6 +142,7 @@ th-onsen-etiquette-japanese.html
 th-osaka-guide.html
 th-otome-game-thai.html
 th-park-picnic-game.html
+th-pension-system-japan.html
 th-post-office-japan.html
 th-railway-mastery.html
 th-ramen-date-game.html
@@ -195,6 +196,7 @@ th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
+th-utility-bills-payment.html
 th-visa-renewal-japan.html
 th-visual-novel-thai.html
 th-wa-ga-difference.html
@@ -202,6 +204,7 @@ th-wake-dewa-nai-usage.html
 th-wake-grammar-series-summary.html
 th-wake-hazu-nai-difference.html
 th-warini-usage.html
+th-weather-japanese.html
 th-wo-kara-movement.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
