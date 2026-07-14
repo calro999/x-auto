@@ -89,9 +89,11 @@ th-hotel-japanese.html
 th-ijou-ika-miman-chou.html
 th-ijouwa-karaniwa-difference.html
 th-internet-setup-japan.html
+th-izakaya-conversation.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-order-japanese.html
 th-izakaya-payment-japanese.html
+th-izakaya-vocab-japanese.html
 th-japan-tax-guide.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
@@ -192,6 +194,7 @@ th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-totte-shite-taishite-difference.html
 th-train-japanese.html
+th-travel-guide.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
