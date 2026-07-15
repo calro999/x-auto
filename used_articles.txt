@@ -46,8 +46,10 @@ th-bank-account-japanese.html
 th-bank-document-japanese.html
 th-bicycle-japan-rules.html
 th-business-etiquette.html
+th-city-hall-japanese.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
+th-convenience-bag-japanese.html
 th-convenience-store-baito.html
 th-convenience-store-hacks.html
 th-convenience-store-japanese.html
@@ -142,6 +144,7 @@ th-nara-usage.html
 th-naru-suru-change.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
+th-ni-atatte-usage.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-nikui-zurai-difference.html
