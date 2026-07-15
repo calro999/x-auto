@@ -12,6 +12,7 @@ otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
+otome/th-secret-school-love-story.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
@@ -31,6 +32,7 @@ th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-drink-vocab.html
 th-baito-greeting-japanese.html
+th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-menu-explain.html
@@ -104,6 +106,7 @@ th-jlpt-grammar-study.html
 th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
+th-jlpt-n3-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-jlpt-n5-study.html
 th-job-interview-japanese.html
