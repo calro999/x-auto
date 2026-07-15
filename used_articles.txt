@@ -112,6 +112,7 @@ th-jlpt-n2-vocabulary-500.html
 th-jlpt-n3-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-jlpt-n5-study.html
+th-jlpt-pass-guide.html
 th-job-interview-japanese.html
 th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
@@ -174,6 +175,7 @@ th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shinkansen-guide-japanese.html
 th-shiru-wakaru-difference.html
+th-shopping-japanese.html
 th-shrine-visit-game.html
 th-sim-card-japanese.html
 th-slang-trending-japanese.html
@@ -232,3 +234,4 @@ th-yasui-gachi-difference.html
 th-yori-hodo-comparison.html
 th-yukata-festival-game.html
 th-zaru-o-enai-usage.html
+th-zu-ni-wa-irarenai-usage.html
