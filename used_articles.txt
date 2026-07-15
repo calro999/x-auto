@@ -39,6 +39,7 @@ th-baito-menu-explain.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
+th-baito-resume-japanese.html
 th-baito-waiting-apology.html
 th-bakari-darake-mamire-difference.html
 th-bakari-ka-usage.html
@@ -147,6 +148,7 @@ th-nenmatsu-chosei-guide.html
 th-ni-atatte-usage.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
+th-ni-taishite-mukatte.html
 th-nikui-zurai-difference.html
 th-nishitewa-warini-difference.html
 th-niyorto-hanashide-source.html
@@ -224,6 +226,7 @@ th-wake-hazu-nai-difference.html
 th-warini-usage.html
 th-weather-japanese.html
 th-wo-kara-movement.html
+th-wo-ni-difference.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
 th-yori-hodo-comparison.html
