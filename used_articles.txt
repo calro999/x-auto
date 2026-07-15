@@ -76,6 +76,7 @@ th-esd-salary-taxes-remittance.html
 th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
 th-esd-visa-japan.html
+th-family-japanese.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
 th-garbage-sorting-japanese.html
@@ -83,6 +84,7 @@ th-gimi-gachi-ppoi-difference.html
 th-grammar-master-guide.html
 th-gyaru-japanese.html
 th-hair-salon-japanese.html
+th-hajimeru-dasu-difference.html
 th-harajuku-fashion-game.html
 th-hazu-beki-difference.html
 th-hazu-da-ni-chigainai-difference.html
@@ -127,6 +129,7 @@ th-koto-ni-suru-naru-difference.html
 th-koto-no-difference.html
 th-kyoto-guide.html
 th-learn-japanese-free.html
+th-lost-item-police-japan.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-madeni-uchini-time.html
