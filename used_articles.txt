@@ -4,6 +4,7 @@ otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-conversation-skills-aizuchi.html
+otome/th-japanese-enryo.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-marriage-kekkon.html
 otome/th-japanese-men-psychology-love.html
@@ -110,6 +111,7 @@ th-japanese-daily-etiquette.html
 th-japanese-daily-life.html
 th-jlpt-game.html
 th-jlpt-grammar-study.html
+th-jlpt-hiragana-katakana.html
 th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
@@ -146,6 +148,7 @@ th-moving-address-japanese.html
 th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
+th-naide-nakute-difference.html
 th-nakereba-naranai-usage-obligation.html
 th-nara-tara-ba-to-difference.html
 th-nara-usage.html
