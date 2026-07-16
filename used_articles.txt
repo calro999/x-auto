@@ -25,6 +25,7 @@ th-ageru-morau-kureru-guide.html
 th-airport-japanese.html
 th-airport-survival-japanese.html
 th-akihabara-tour.html
+th-anime-japanese-learn.html
 th-apartment-hunting-japanese.html
 th-apartment-vocab-japanese.html
 th-baito-age-verification.html
@@ -196,6 +197,7 @@ th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-tai-mono-da-usage.html
 th-takoyaki-master.html
+th-tameni-youni-control.html
 th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
@@ -209,6 +211,7 @@ th-tempura-master.html
 th-teoku-tearu-keep.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
+th-tokai-guide.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
