@@ -65,6 +65,7 @@ th-credit-card-japan.html
 th-cushion-words-business.html
 th-customer-greeting-japanese.html
 th-daijoubu-kamaimasen-refuse.html
+th-dake-bakari-shika.html
 th-dake-ni-dake-atte-difference.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
@@ -163,8 +164,10 @@ th-ni-taishite-mukatte.html
 th-nikui-zurai-difference.html
 th-nishitewa-warini-difference.html
 th-niyorto-hanashide-source.html
+th-o-kudasai-polite-request.html
 th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
+th-okonomiyaki-master.html
 th-onsen-etiquette-japanese.html
 th-osaka-guide.html
 th-otome-game-thai.html
