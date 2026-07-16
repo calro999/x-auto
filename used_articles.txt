@@ -1,5 +1,6 @@
 otome/th-confession-guide-japan.html
 otome/th-dating-japanese-guy-rules.html
+otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
@@ -173,6 +174,7 @@ th-osaka-guide.html
 th-otome-game-thai.html
 th-park-picnic-game.html
 th-pension-system-japan.html
+th-police-trouble-japan.html
 th-post-office-japan.html
 th-railway-mastery.html
 th-ramen-date-game.html
@@ -198,6 +200,7 @@ th-sumimasen-gomen-moushiwake-difference.html
 th-summer-festival-yui.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
+th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
 th-takoyaki-master.html
 th-tameni-youni-control.html
