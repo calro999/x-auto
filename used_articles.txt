@@ -7,6 +7,7 @@ otome/th-japanese-conversation-skills-aizuchi.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-marriage-kekkon.html
 otome/th-japanese-men-psychology-love.html
+otome/th-learning-japanese-slang-rine.html
 otome/th-long-distance-gift-omiyage.html
 otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
@@ -32,6 +33,7 @@ th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-drink-vocab.html
 th-baito-greeting-japanese.html
+th-baito-interview-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
@@ -115,6 +117,7 @@ th-jlpt-n3-vocabulary-500.html
 th-jlpt-n4-vocabulary-essential.html
 th-jlpt-n5-study.html
 th-jlpt-pass-guide.html
+th-jlpt-vocabulary.html
 th-job-interview-japanese.html
 th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
