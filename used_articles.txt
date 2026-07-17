@@ -45,6 +45,7 @@ th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-baito-resume-japanese.html
+th-baito-shift-change.html
 th-baito-waiting-apology.html
 th-bakari-darake-mamire-difference.html
 th-bakari-ka-usage.html
@@ -102,6 +103,7 @@ th-hokkaido-guide.html
 th-hokuriku-guide.html
 th-hospital-japanese.html
 th-hotel-japanese.html
+th-hougaii-taraii-difference.html
 th-ijou-ika-miman-chou.html
 th-ijouwa-karaniwa-difference.html
 th-internet-setup-japan.html
@@ -227,6 +229,7 @@ th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
+th-tokyo-date.html
 th-tokyo-travel-guide.html
 th-top-cities-japanese.html
 th-totte-shite-taishite-difference.html
