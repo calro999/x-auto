@@ -179,6 +179,7 @@ th-post-office-japan.html
 th-railway-mastery.html
 th-ramen-date-game.html
 th-ramen-master-japanese.html
+th-register-payment-japanese.html
 th-restaurant-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
@@ -217,7 +218,9 @@ th-tempura-master.html
 th-teoku-tearu-keep.html
 th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
+th-tohoku-guide.html
 th-tokai-guide.html
+th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
