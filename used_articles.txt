@@ -85,6 +85,7 @@ th-esd-visa-japan.html
 th-family-japanese.html
 th-festival-novel.html
 th-frequency-adverbs-percent.html
+th-fuji-guide.html
 th-garbage-sorting-japanese.html
 th-gimi-gachi-ppoi-difference.html
 th-grammar-master-guide.html
@@ -98,6 +99,7 @@ th-hazu-ga-nai-usage.html
 th-hazu-wake-difference.html
 th-health-insurance-japanese.html
 th-hokkaido-guide.html
+th-hokuriku-guide.html
 th-hospital-japanese.html
 th-hotel-japanese.html
 th-ijou-ika-miman-chou.html
@@ -136,6 +138,7 @@ th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
 th-koto-no-difference.html
 th-kyoto-guide.html
+th-kyushu-guide.html
 th-learn-japanese-free.html
 th-lost-item-police-japan.html
 th-love-phrases-japanese.html
