@@ -53,6 +53,7 @@ th-bank-account-japanese.html
 th-bank-document-japanese.html
 th-bicycle-japan-rules.html
 th-business-etiquette.html
+th-chugoku-guide.html
 th-city-hall-japanese.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
@@ -161,6 +162,7 @@ th-nakereba-naranai-usage-obligation.html
 th-nara-tara-ba-to-difference.html
 th-nara-usage.html
 th-naru-suru-change.html
+th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
 th-ni-atatte-usage.html
@@ -259,6 +261,7 @@ th-wo-ni-difference.html
 th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
 th-yori-hodo-comparison.html
+th-youni-grammar-all.html
 th-yukata-festival-game.html
 th-zaru-o-enai-usage.html
 th-zu-ni-wa-irarenai-usage.html
