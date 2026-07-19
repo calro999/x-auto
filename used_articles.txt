@@ -1,3 +1,4 @@
+otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-japanese-keigo-to-tamego.html
@@ -13,8 +14,10 @@ th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-izakaya-extra-order-japanese.html
 th-jlpt-n3-vocabulary-500.html
+th-kanto-guide.html
 th-koto-ni-suru-naru-difference.html
 th-mynumber-card-guide.html
+th-ne-yo-yone.html
 th-ni-taishite-mukatte.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
