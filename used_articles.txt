@@ -1,6 +1,7 @@
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-japanese-keigo-to-tamego.html
+otome/th-long-distance-gift-omiyage.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 th-apartment-hunting-japanese.html
@@ -14,7 +15,9 @@ th-mynumber-card-guide.html
 th-ni-taishite-mukatte.html
 th-restaurant-work-japanese.html
 th-ssw-industry-interview.html
+th-sushi-pro-japanese.html
 th-tameni-youni-control.html
+th-wake-hazu-nai-difference.html
 th-wo-ni-difference.html
 th-yasui-gachi-difference.html
 th-zaru-o-enai-usage.html
