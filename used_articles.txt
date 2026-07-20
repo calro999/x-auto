@@ -12,9 +12,11 @@ th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
 th-baito-refuse-customer.html
 th-credit-card-japan.html
+th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
+th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-jlpt-n3-vocabulary-500.html
@@ -32,6 +34,7 @@ th-ssw-industry-interview.html
 th-sushi-pro-japanese.html
 th-tameni-youni-control.html
 th-tokoro-bakari-difference.html
+th-ureshii-tanoshii-difference.html
 th-wake-hazu-nai-difference.html
 th-wo-ni-difference.html
 th-yasui-gachi-difference.html
