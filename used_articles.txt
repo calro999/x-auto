@@ -14,6 +14,7 @@ th-baito-refuse-customer.html
 th-credit-card-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-family-japanese.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-hougaii-taraii-difference.html
@@ -22,11 +23,13 @@ th-izakaya-extra-order-japanese.html
 th-jlpt-n3-vocabulary-500.html
 th-kanto-guide.html
 th-karaoke-japanese.html
+th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
 th-mynumber-card-guide.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
 th-ni-taishite-mukatte.html
+th-okonomiyaki-master.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-shopping-japanese.html
