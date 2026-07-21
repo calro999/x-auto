@@ -2,5 +2,5 @@ file_name
 th-jlpt-hiragana-katakana.html
 sns_post
 
-สนุกไปกับการฝึกฮิรางานะ-คาตาคานะผ่านเกม YUI! 🎮 เรียนรู้การ์ดคำจำง่าย ช่วยให้คุณจำได้ไว👇  
+ฝึกฮิรางานะ-คาตาคานะแบบสนุก! 🎮 ฝึกผ่านเกมกับ YUI เตรียมสอบ JLPT อย่างมั่นใจ อ่านเลย👇  
 yui-yuto.com/th-jlpt-hiragana-katakana

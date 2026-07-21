@@ -23,6 +23,7 @@ th-hazu-ga-nai-usage.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
+th-jlpt-hiragana-katakana.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n3-vocabulary-500.html
 th-kanto-guide.html
@@ -30,6 +31,7 @@ th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
 th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
+th-kyushu-guide.html
 th-mynumber-card-guide.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
@@ -44,6 +46,7 @@ th-tameni-youni-control.html
 th-tokoro-bakari-difference.html
 th-ureshii-tanoshii-difference.html
 th-utility-bills-payment.html
+th-wa-ga-difference.html
 th-wake-hazu-nai-difference.html
 th-wo-ni-difference.html
 th-yasui-gachi-difference.html
