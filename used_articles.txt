@@ -22,6 +22,7 @@ th-esd-agency-kumiai-guide.html
 th-family-japanese.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
+th-hospital-japanese.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
@@ -47,7 +48,9 @@ th-resume-writing-japanese.html
 th-shopping-japanese.html
 th-ssw-industry-interview.html
 th-sushi-pro-japanese.html
+th-ta-hou-ga-ii-usage.html
 th-tameni-youni-control.html
+th-teoku-tearu-keep.html
 th-tokoro-bakari-difference.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
