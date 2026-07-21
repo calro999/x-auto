@@ -8,8 +8,10 @@ otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-men-shy.html
 th-ageru-kureru-morau.html
+th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
+th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-refuse-customer.html
 th-credit-card-japan.html
@@ -24,6 +26,7 @@ th-izakaya-extra-order-japanese.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n3-vocabulary-500.html
 th-kanto-guide.html
+th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
 th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
