@@ -15,6 +15,7 @@ th-baito-apology-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-refuse-customer.html
+th-bakari-darake-mamire-difference.html
 th-credit-card-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
@@ -39,6 +40,7 @@ th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
 th-ni-taishite-mukatte.html
 th-okonomiyaki-master.html
+th-park-picnic-game.html
 th-register-payment-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
@@ -48,6 +50,7 @@ th-sushi-pro-japanese.html
 th-tameni-youni-control.html
 th-tokoro-bakari-difference.html
 th-ureshii-tanoshii-difference.html
+th-utilities-setup-japanese.html
 th-utility-bills-payment.html
 th-wa-ga-difference.html
 th-wake-hazu-nai-difference.html
