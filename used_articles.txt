@@ -7,6 +7,7 @@ otome/th-marriage-traditional-modern-japan.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-men-shy.html
+th-ageku-sueni-difference.html
 th-ageru-kureru-morau.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
@@ -35,8 +36,10 @@ th-kyushu-guide.html
 th-mynumber-card-guide.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
+th-ni-de-difference.html
 th-ni-taishite-mukatte.html
 th-okonomiyaki-master.html
+th-register-payment-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-shopping-japanese.html
