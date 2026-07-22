@@ -18,6 +18,7 @@ th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-refuse-customer.html
 th-bakari-darake-mamire-difference.html
+th-coin-laundry-japan.html
 th-credit-card-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
@@ -31,6 +32,7 @@ th-izakaya-extra-order-japanese.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n3-vocabulary-500.html
+th-jlpt-pass-guide.html
 th-job-interview-japanese.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
@@ -44,6 +46,7 @@ th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
 th-ni-taishite-mukatte.html
 th-okonomiyaki-master.html
+th-otome-game-thai.html
 th-park-picnic-game.html
 th-register-payment-japanese.html
 th-restaurant-work-japanese.html
