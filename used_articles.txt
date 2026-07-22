@@ -1,3 +1,4 @@
+otome/th-confession-guide-japan.html
 otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
@@ -14,6 +15,7 @@ th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
+th-baito-master-guide.html
 th-baito-refuse-customer.html
 th-bakari-darake-mamire-difference.html
 th-credit-card-japan.html
@@ -29,6 +31,7 @@ th-izakaya-extra-order-japanese.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n3-vocabulary-500.html
+th-job-interview-japanese.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
