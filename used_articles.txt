@@ -10,6 +10,7 @@ otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-men-shy.html
 th-ageku-sueni-difference.html
 th-ageru-kureru-morau.html
+th-airport-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
@@ -21,6 +22,7 @@ th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
 th-coin-laundry-japan.html
 th-credit-card-japan.html
+th-dake-nomi-difference.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-family-japanese.html
@@ -57,6 +59,7 @@ th-register-payment-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-shopping-japanese.html
+th-slang-trending-japanese.html
 th-ssw-industry-interview.html
 th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
