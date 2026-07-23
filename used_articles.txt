@@ -7,10 +7,12 @@ otome/th-long-distance-gift-omiyage.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
+otome/th-why-japanese-hard-to-understand.html
 otome/th-why-japanese-men-shy.html
 th-ageku-sueni-difference.html
 th-ageru-kureru-morau.html
 th-airport-japanese.html
+th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
@@ -27,6 +29,7 @@ th-dake-nomi-difference.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-family-japanese.html
+th-harajuku-fashion-game.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-hospital-japanese.html
