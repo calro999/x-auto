@@ -26,6 +26,7 @@ th-coin-laundry-japan.html
 th-convenience-store-japanese.html
 th-credit-card-japan.html
 th-dake-nomi-difference.html
+th-driver-license-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-family-japanese.html
@@ -49,6 +50,7 @@ th-karaoke-japanese.html
 th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
 th-kyushu-guide.html
+th-mama-nagara-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
 th-ne-yo-yone.html
@@ -73,6 +75,7 @@ th-tameni-youni-control.html
 th-teoku-tearu-keep.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
+th-tsurete-shitagatte-difference.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
 th-utility-bills-payment.html
