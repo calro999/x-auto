@@ -16,9 +16,11 @@ th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
+th-baito-change-handover.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
+th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
@@ -51,6 +53,7 @@ th-job-interview-japanese.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
+th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
 th-kyoto-guide.html
