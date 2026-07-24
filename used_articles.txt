@@ -40,6 +40,7 @@ th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
+th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n3-vocabulary-500.html
@@ -54,6 +55,7 @@ th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
 th-kyoto-guide.html
 th-kyushu-guide.html
+th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
@@ -80,6 +82,7 @@ th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tameni-youni-control.html
 th-teoku-tearu-keep.html
+th-thai-embassy-japan.html
 th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
