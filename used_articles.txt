@@ -26,6 +26,7 @@ th-coin-laundry-japan.html
 th-convenience-store-japanese.html
 th-credit-card-japan.html
 th-dake-nomi-difference.html
+th-dentist-japanese.html
 th-driver-license-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
@@ -37,6 +38,7 @@ th-hospital-japanese.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
+th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
@@ -68,6 +70,7 @@ th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sasete-kudasai-usage.html
 th-shopping-japanese.html
+th-shrine-visit-game.html
 th-slang-trending-japanese.html
 th-ssw-industry-interview.html
 th-sushi-pro-japanese.html
