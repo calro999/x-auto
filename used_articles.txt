@@ -2,6 +2,7 @@ otome/th-confession-guide-japan.html
 otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
+otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-long-distance-gift-omiyage.html
 otome/th-marriage-traditional-modern-japan.html
@@ -40,6 +41,7 @@ th-hospital-japanese.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
+th-izakaya-payment-japanese.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-kanji-game.html
@@ -91,6 +93,7 @@ th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-tokyo-date.html
+th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
