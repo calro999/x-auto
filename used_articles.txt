@@ -33,6 +33,7 @@ th-dentist-japanese.html
 th-driver-license-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-visa-japan.html
 th-family-japanese.html
 th-harajuku-fashion-game.html
 th-hazu-da-ni-chigainai-difference.html
@@ -64,6 +65,7 @@ th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
+th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
@@ -78,6 +80,7 @@ th-post-office-japan.html
 th-register-payment-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
+th-sae-koso-sura-difference.html
 th-sasete-kudasai-usage.html
 th-shopping-japanese.html
 th-shrine-visit-game.html
