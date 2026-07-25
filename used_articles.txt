@@ -86,9 +86,11 @@ th-ta-hou-ga-ii-usage.html
 th-tameni-youni-control.html
 th-teoku-tearu-keep.html
 th-thai-embassy-japan.html
+th-tokai-guide.html
 th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
+th-tokyo-date.html
 th-tsurete-shitagatte-difference.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
@@ -97,6 +99,7 @@ th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
 th-wake-grammar-series-summary.html
 th-wake-hazu-nai-difference.html
+th-weather-japanese.html
 th-wo-kara-movement.html
 th-wo-ni-difference.html
 th-yasui-gachi-difference.html
