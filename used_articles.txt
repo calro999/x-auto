@@ -5,6 +5,7 @@ otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-long-distance-gift-omiyage.html
+otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
@@ -25,6 +26,7 @@ th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
+th-clothing-verbs.html
 th-coin-laundry-japan.html
 th-convenience-store-japanese.html
 th-credit-card-japan.html
@@ -95,6 +97,7 @@ th-tokai-guide.html
 th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
+th-toku-chau-spoken.html
 th-tokyo-date.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
