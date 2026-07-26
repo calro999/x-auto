@@ -19,6 +19,7 @@ th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
 th-baito-change-handover.html
+th-baito-interview-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
@@ -29,6 +30,7 @@ th-bank-account-japanese.html
 th-bicycle-japan-rules.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
+th-convenience-store-baito.html
 th-convenience-store-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
@@ -70,6 +72,7 @@ th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
 th-kyoto-guide.html
 th-kyushu-guide.html
+th-learn-japanese-free.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-muke-muki-difference.html
