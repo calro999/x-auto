@@ -37,9 +37,12 @@ th-dentist-japanese.html
 th-driver-license-japan.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-to-specified-skilled-worker.html
 th-esd-visa-japan.html
 th-family-japanese.html
+th-hair-salon-japanese.html
 th-harajuku-fashion-game.html
+th-hazu-beki-difference.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-hospital-japanese.html
