@@ -26,6 +26,7 @@ th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
+th-bicycle-japan-rules.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
 th-convenience-store-japanese.html
@@ -76,6 +77,7 @@ th-ni-de-difference.html
 th-ni-taishite-mukatte.html
 th-nishitewa-warini-difference.html
 th-okonomiyaki-master.html
+th-onsen-etiquette-japanese.html
 th-osaka-guide.html
 th-otome-game-thai.html
 th-park-picnic-game.html
@@ -102,6 +104,7 @@ th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
 th-tokyo-date.html
+th-totte-shite-taishite-difference.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-ureshii-tanoshii-difference.html
