@@ -19,6 +19,7 @@ th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
 th-baito-change-handover.html
+th-baito-colleague-talk.html
 th-baito-interview-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
@@ -67,6 +68,7 @@ th-jlpt-n5-study.html
 th-jlpt-pass-guide.html
 th-jlpt-vocabulary.html
 th-job-interview-japanese.html
+th-kansai-guide.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
@@ -78,6 +80,7 @@ th-kyushu-guide.html
 th-learn-japanese-free.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
+th-mono-koto-difference.html
 th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
