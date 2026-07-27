@@ -53,6 +53,7 @@ th-hazu-beki-difference.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
+th-hokkaido-guide.html
 th-hospital-japanese.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
@@ -84,6 +85,7 @@ th-mono-koto-difference.html
 th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
+th-nara-tara-ba-to-difference.html
 th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
@@ -113,6 +115,7 @@ th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
 th-tameni-youni-control.html
+th-taxi-japan-japanese.html
 th-teita-teiru.html
 th-teoku-tearu-keep.html
 th-thai-embassy-japan.html
