@@ -81,6 +81,7 @@ th-koto-ni-suru-naru-difference.html
 th-kyoto-guide.html
 th-kyushu-guide.html
 th-learn-japanese-free.html
+th-love-phrases-japanese.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-mono-koto-difference.html
@@ -119,6 +120,8 @@ th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
 th-tameni-youni-control.html
 th-taxi-japan-japanese.html
+th-te-mo-ii-usage-permission.html
+th-te-mo-tatte-difference.html
 th-teita-teiru.html
 th-teoku-tearu-keep.html
 th-thai-embassy-japan.html
