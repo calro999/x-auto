@@ -37,6 +37,7 @@ th-convenience-store-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-customer-greeting-japanese.html
+th-dake-bakari-shika.html
 th-dake-nomi-difference.html
 th-dentist-japanese.html
 th-driver-license-japan.html
@@ -59,6 +60,7 @@ th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-payment-japanese.html
+th-japanese-daily-etiquette.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-kanji-game.html
@@ -106,6 +108,7 @@ th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
 th-sasete-kudasai-usage.html
+th-shinkansen-guide-japanese.html
 th-shopping-japanese.html
 th-shrine-visit-game.html
 th-sim-card-japanese.html
