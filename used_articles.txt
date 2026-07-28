@@ -44,6 +44,7 @@ th-driver-license-japan.html
 th-drugstore-japanese.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-japanese-study.html
 th-esd-to-specified-skilled-worker.html
 th-esd-visa-japan.html
 th-family-japanese.html
@@ -71,6 +72,7 @@ th-jlpt-n5-study.html
 th-jlpt-pass-guide.html
 th-jlpt-vocabulary.html
 th-job-interview-japanese.html
+th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
@@ -93,6 +95,7 @@ th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
 th-ni-de-difference.html
+th-ni-shitagatte-usage.html
 th-ni-taishite-mukatte.html
 th-nishitewa-warini-difference.html
 th-okonomiyaki-master.html
