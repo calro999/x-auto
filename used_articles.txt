@@ -28,6 +28,7 @@ th-baito-master-guide.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-baito-resume-japanese.html
+th-baito-shift-change.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
 th-bicycle-japan-rules.html
@@ -63,6 +64,7 @@ th-hokkaido-guide.html
 th-hospital-japanese.html
 th-hotel-japanese.html
 th-hougaii-taraii-difference.html
+th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-payment-japanese.html
@@ -153,6 +155,7 @@ th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
 th-wake-grammar-series-summary.html
 th-wake-hazu-nai-difference.html
+th-warini-usage.html
 th-weather-japanese.html
 th-wo-kara-movement.html
 th-wo-ni-difference.html
