@@ -57,10 +57,12 @@ th-hazu-ga-nai-usage.html
 th-health-insurance-japanese.html
 th-hokkaido-guide.html
 th-hospital-japanese.html
+th-hotel-japanese.html
 th-hougaii-taraii-difference.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-payment-japanese.html
+th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
@@ -108,6 +110,7 @@ th-post-office-japan.html
 th-railway-mastery.html
 th-ramen-master-japanese.html
 th-register-payment-japanese.html
+th-restaurant-japanese.html
 th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
