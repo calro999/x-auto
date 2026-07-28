@@ -18,6 +18,7 @@ th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
+th-baito-cashier-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
 th-baito-interview-japanese.html
@@ -56,6 +57,7 @@ th-harajuku-fashion-game.html
 th-hazu-beki-difference.html
 th-hazu-da-ni-chigainai-difference.html
 th-hazu-ga-nai-usage.html
+th-hazu-wake-difference.html
 th-health-insurance-japanese.html
 th-hokkaido-guide.html
 th-hospital-japanese.html
@@ -111,6 +113,7 @@ th-park-picnic-game.html
 th-police-trouble-japan.html
 th-post-office-japan.html
 th-railway-mastery.html
+th-ramen-date-game.html
 th-ramen-master-japanese.html
 th-register-payment-japanese.html
 th-restaurant-japanese.html
