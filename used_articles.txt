@@ -26,6 +26,7 @@ th-baito-manager-report.html
 th-baito-master-guide.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
+th-baito-resume-japanese.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
 th-bicycle-japan-rules.html
@@ -34,6 +35,7 @@ th-coin-laundry-japan.html
 th-convenience-store-baito.html
 th-convenience-store-hacks.html
 th-convenience-store-japanese.html
+th-convenience-store-vocab.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-customer-greeting-japanese.html
@@ -100,6 +102,7 @@ th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-ni-taishite-mukatte.html
 th-nishitewa-warini-difference.html
+th-o-kudasai-polite-request.html
 th-okonomiyaki-master.html
 th-onsen-etiquette-japanese.html
 th-osaka-guide.html
