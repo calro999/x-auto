@@ -32,6 +32,7 @@ th-baito-shift-change.html
 th-bakari-darake-mamire-difference.html
 th-bank-account-japanese.html
 th-bicycle-japan-rules.html
+th-business-etiquette.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
 th-convenience-store-baito.html
@@ -54,6 +55,7 @@ th-esd-visa-japan.html
 th-family-japanese.html
 th-gyaru-japanese.html
 th-hair-salon-japanese.html
+th-hajimeru-dasu-difference.html
 th-harajuku-fashion-game.html
 th-hazu-beki-difference.html
 th-hazu-da-ni-chigainai-difference.html
@@ -133,6 +135,7 @@ th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
 th-tameni-youni-control.html
+th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
