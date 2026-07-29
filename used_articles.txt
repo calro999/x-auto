@@ -70,6 +70,7 @@ th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-payment-japanese.html
+th-izakaya-vocab-japanese.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
 th-jlpt-grammar-study.html
@@ -126,6 +127,7 @@ th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
 th-sasete-kudasai-usage.html
 th-shinkansen-guide-japanese.html
+th-shiru-wakaru-difference.html
 th-shopping-japanese.html
 th-shrine-visit-game.html
 th-sim-card-japanese.html
@@ -140,6 +142,7 @@ th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
 th-teita-teiru.html
+th-tekuru-teiku-difference.html
 th-teoku-tearu-keep.html
 th-thai-embassy-japan.html
 th-tokai-guide.html
