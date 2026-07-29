@@ -107,6 +107,7 @@ th-nara-tara-ba-to-difference.html
 th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
+th-ni-atatte-usage.html
 th-ni-de-difference.html
 th-ni-shitagatte-usage.html
 th-ni-taishite-mukatte.html
@@ -157,12 +158,14 @@ th-tokoro-bakari-difference.html
 th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
 th-tokyo-date.html
+th-tokyo-travel-guide.html
 th-totte-shite-taishite-difference.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
 th-utility-bills-payment.html
+th-visual-novel-thai.html
 th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
 th-wake-grammar-series-summary.html
