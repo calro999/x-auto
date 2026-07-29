@@ -16,6 +16,7 @@ th-ageru-kureru-morau.html
 th-airport-japanese.html
 th-airport-survival-japanese.html
 th-akihabara-tour.html
+th-anime-japanese-learn.html
 th-apartment-hunting-japanese.html
 th-baito-apology-japanese.html
 th-baito-cashier-japanese.html
@@ -136,11 +137,13 @@ th-ssw-industry-interview.html
 th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
+th-takoyaki-master.html
 th-tameni-youni-control.html
 th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
+th-te-shimau-usage-regret.html
 th-teita-teiru.html
 th-tekuru-teiku-difference.html
 th-teoku-tearu-keep.html
