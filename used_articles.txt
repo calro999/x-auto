@@ -74,6 +74,7 @@ th-izakaya-payment-japanese.html
 th-izakaya-vocab-japanese.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
+th-jlpt-game.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
 th-jlpt-kanji-game.html
@@ -134,6 +135,7 @@ th-shrine-visit-game.html
 th-sim-card-japanese.html
 th-slang-trending-japanese.html
 th-ssw-industry-interview.html
+th-summer-festival-yui.html
 th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
@@ -148,6 +150,7 @@ th-teita-teiru.html
 th-tekuru-teiku-difference.html
 th-teoku-tearu-keep.html
 th-thai-embassy-japan.html
+th-tohoku-guide.html
 th-tokai-guide.html
 th-toki-sai-difference.html
 th-tokoro-bakari-difference.html
