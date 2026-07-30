@@ -56,6 +56,8 @@ th-esd-japanese-study.html
 th-esd-to-specified-skilled-worker.html
 th-esd-visa-japan.html
 th-family-japanese.html
+th-garbage-sorting-japanese.html
+th-gimi-gachi-ppoi-difference.html
 th-grammar-master-guide.html
 th-gyaru-japanese.html
 th-hair-salon-japanese.html
@@ -67,6 +69,7 @@ th-hazu-ga-nai-usage.html
 th-hazu-wake-difference.html
 th-health-insurance-japanese.html
 th-hokkaido-guide.html
+th-hokuriku-guide.html
 th-hospital-japanese.html
 th-hotel-japanese.html
 th-hougaii-taraii-difference.html
