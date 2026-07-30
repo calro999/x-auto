@@ -108,6 +108,7 @@ th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
 th-nara-tara-ba-to-difference.html
+th-naru-suru-change.html
 th-natto-master.html
 th-ne-yo-yone.html
 th-nenmatsu-chosei-guide.html
@@ -168,6 +169,8 @@ th-tokyo-travel-guide.html
 th-totte-shite-taishite-difference.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
+th-ue-wa-usage.html
+th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
 th-utility-bills-payment.html
