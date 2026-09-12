@@ -1,6 +1,6 @@
 file_name
-th-teshimau-owaru-regret.html
+th-survival-master-guide.html
 sns_post
 
 The API key used for this request has reached its budget. Please [raise the key
-yui-yuto.com/th-teshimau-owaru-regret
+yui-yuto.com/th-survival-master-guide

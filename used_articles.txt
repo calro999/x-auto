@@ -54,6 +54,7 @@ th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-study.html
 th-esd-to-specified-skilled-worker.html
+th-esd-visa-change-job.html
 th-esd-visa-japan.html
 th-family-japanese.html
 th-garbage-sorting-japanese.html
@@ -146,6 +147,7 @@ th-sim-card-japanese.html
 th-slang-trending-japanese.html
 th-ssw-industry-interview.html
 th-summer-festival-yui.html
+th-survival-master-guide.html
 th-sushi-pro-japanese.html
 th-ta-hou-ga-ii-usage.html
 th-tai-mono-da-usage.html
@@ -160,6 +162,7 @@ th-teita-teiru.html
 th-tekuru-teiku-difference.html
 th-tempura-master.html
 th-teoku-tearu-keep.html
+th-teshimau-owaru-regret.html
 th-thai-embassy-japan.html
 th-tohoku-guide.html
 th-tokai-guide.html
