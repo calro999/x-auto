@@ -6,6 +6,7 @@ otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
 otome/th-long-distance-gift-omiyage.html
+otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-thai-culture-japanese-guy.html
@@ -77,6 +78,7 @@ th-hougaii-taraii-difference.html
 th-ijou-ika-miman-chou.html
 th-internet-setup-japan.html
 th-izakaya-extra-order-japanese.html
+th-izakaya-order-japanese.html
 th-izakaya-payment-japanese.html
 th-izakaya-vocab-japanese.html
 th-japanese-culture-game.html
@@ -112,6 +114,7 @@ th-mono-koto-difference.html
 th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
+th-naide-nakute-difference.html
 th-nara-tara-ba-to-difference.html
 th-naru-suru-change.html
 th-natto-master.html
