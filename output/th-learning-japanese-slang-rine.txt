@@ -2,5 +2,5 @@ file_name
 otome/th-learning-japanese-slang-rine.html
 sns_post
 
-เรียนรู้ศัพท์สแลงญี่ปุ่นสุดฮิต!✨ เพิ่มความสนุกในการสื่อสารและเข้าใจวัฒนธรรมญี่ปุ่นแบบลึกซึ้ง👇  
+The API key used for this request has reached its budget. Please [raise the key
 yui-yuto.com/th-learning-japanese-slang-rine
