@@ -2,5 +2,5 @@ file_name
 th-shikoku-guide.html
 sns_post
 
-สำรวจชิโกกุ 2026! 🌸 มหากาพย์การแสวงบุญและงานศิลป์รอคุณอยู่ พบประสบการณ์ที่ไม่เหมือนใครในบทความนี้👇  
+The API key used for this request has reached its budget. Please [raise the key
 yui-yuto.com/th-shikoku-guide

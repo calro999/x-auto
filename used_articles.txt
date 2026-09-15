@@ -115,6 +115,7 @@ th-love-phrases-japanese.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-masu-mase-difference.html
+th-monjayaki-master.html
 th-mono-da-usage.html
 th-mono-koto-difference.html
 th-muke-muki-difference.html
@@ -149,6 +150,7 @@ th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
 th-sasete-kudasai-usage.html
+th-shikoku-guide.html
 th-shinkansen-guide-japanese.html
 th-shiru-wakaru-difference.html
 th-shopping-japanese.html
@@ -184,6 +186,7 @@ th-toku-chau-spoken.html
 th-tokyo-date.html
 th-tokyo-travel-guide.html
 th-totte-shite-taishite-difference.html
+th-train-japanese.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsurete-shitagatte-difference.html
 th-ue-wa-usage.html
