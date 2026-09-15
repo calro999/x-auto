@@ -3,6 +3,7 @@ otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
+otome/th-japanese-enryo.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
 otome/th-learning-japanese-slang-rine.html
@@ -26,10 +27,12 @@ th-baito-apology-japanese.html
 th-baito-cashier-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
+th-baito-greeting-japanese.html
 th-baito-interview-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
+th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-baito-resume-japanese.html

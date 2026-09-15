@@ -2,5 +2,5 @@ file_name
 otome/th-japanese-enryo.html
 sns_post
 
-เรียนรู้เคล็ดลับการสื่อสารในวัฒนธรรมญี่ปุ่น🇯🇵 ปรับใช้ในชีวิตประจำวันและทำงานได้จริง! คลิกอ่านเลย👇  
+The API key used for this request has reached its budget. Please [raise the key
 yui-yuto.com/th-japanese-enryo
