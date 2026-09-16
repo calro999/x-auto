@@ -1,0 +1,6 @@
+file_name
+th-baito-age-verification.html
+sns_post
+
+{"role":"assistant","reasoning":"We need to produce a tweet about article \"ตรวจบัตรประชาชนซื้อเหล้า
+yui-yuto.com/th-baito-age-verification

@@ -23,6 +23,7 @@ th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-anime-japanese-learn.html
 th-apartment-hunting-japanese.html
+th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-cashier-japanese.html
 th-baito-change-handover.html
@@ -170,6 +171,7 @@ th-tameni-youni-difference.html
 th-taxi-japan-japanese.html
 th-te-mo-ii-usage-permission.html
 th-te-mo-tatte-difference.html
+th-te-oku-aru-difference.html
 th-te-shimau-usage-regret.html
 th-teita-teiru.html
 th-tekuru-teiku-difference.html
@@ -188,6 +190,7 @@ th-tokyo-travel-guide.html
 th-totte-shite-taishite-difference.html
 th-train-japanese.html
 th-tsuite-kanshite-taishite-megutte.html
+th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
 th-ue-wa-usage.html
 th-untranslatable-japanese.html
