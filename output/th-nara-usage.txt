@@ -2,5 +2,5 @@ file_name
 th-nara-usage.html
 sns_post
 
-เรียนรู้การใช้ 〜ながら ทำ 2 อย่างพร้อมกันในภาษาญี่ปุ่น! สนุกและมีประโยชน์ ช่วยให้การสื่อสารของคุณลื่นไหลขึ้น👇  
+The API key used for this request has reached its budget. Please [raise the key
 yui-yuto.com/th-nara-usage

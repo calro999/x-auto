@@ -12,6 +12,7 @@ otome/th-long-distance-gift-omiyage.html
 otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
+otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
@@ -40,6 +41,7 @@ th-baito-refuse-customer.html
 th-baito-resume-japanese.html
 th-baito-shift-change.html
 th-bakari-darake-mamire-difference.html
+th-bakari-ka-usage.html
 th-bank-account-japanese.html
 th-bank-document-japanese.html
 th-bicycle-japan-rules.html
@@ -127,6 +129,7 @@ th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
 th-naide-nakute-difference.html
 th-nara-tara-ba-to-difference.html
+th-nara-usage.html
 th-naru-suru-change.html
 th-natto-master.html
 th-ne-yo-yone.html
