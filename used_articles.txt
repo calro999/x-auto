@@ -1,4 +1,5 @@
 otome/th-confession-guide-japan.html
+otome/th-dating-japanese-guy-rules.html
 otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
@@ -60,6 +61,7 @@ th-driver-license-japan.html
 th-drugstore-japanese.html
 th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-japanese-communication.html
 th-esd-japanese-study.html
 th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
@@ -97,6 +99,7 @@ th-jlpt-kanji-game.html
 th-jlpt-n1-vocabulary-essential.html
 th-jlpt-n2-vocabulary-500.html
 th-jlpt-n3-vocabulary-500.html
+th-jlpt-n4-vocabulary-essential.html
 th-jlpt-n5-study.html
 th-jlpt-pass-guide.html
 th-jlpt-vocabulary.html
