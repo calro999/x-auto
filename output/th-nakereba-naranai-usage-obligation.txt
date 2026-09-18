@@ -2,5 +2,5 @@ file_name
 th-nakereba-naranai-usage-obligation.html
 sns_post
 
-เข้าใจความแตกต่างระหว่าง 〜なければならない กับ 〜ないといけない เพื่อใช้ภาษาญี่ปุ่นได้ถูกต้องและมั่นใจ!
+{"role":"assistant","reasoning":"We need to craft a Twitter post. Conditions:\n\n-
 yui-yuto.com/th-nakereba-naranai-usage-obligation

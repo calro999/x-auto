@@ -2,5 +2,5 @@ file_name
 th-dake-ni-dake-atte-difference.html
 sns_post
 
-เข้าใจความแตกต่างระหว่าง 〜だけに กับ 〜だけあって เพื่อใช้สื่อสารได้แม่นยำขึ้น! มาหาคำตอบกันเถอะ👇  
+The API key used for this request has reached its budget. Please [raise the key
 yui-yuto.com/th-dake-ni-dake-atte-difference
