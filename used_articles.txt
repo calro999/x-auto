@@ -59,6 +59,7 @@ th-customer-greeting-japanese.html
 th-dake-bakari-shika.html
 th-dake-ni-dake-atte-difference.html
 th-dake-nomi-difference.html
+th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
 th-driver-license-japan.html
 th-drugstore-japanese.html
@@ -70,6 +71,7 @@ th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
 th-esd-visa-japan.html
 th-family-japanese.html
+th-fuji-guide.html
 th-garbage-sorting-japanese.html
 th-gimi-gachi-ppoi-difference.html
 th-grammar-master-guide.html
@@ -115,6 +117,7 @@ th-karaoke-japanese.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-ni-suru-naru-difference.html
+th-koto-no-difference.html
 th-kyoto-guide.html
 th-kyushu-guide.html
 th-learn-japanese-free.html
