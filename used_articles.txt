@@ -35,6 +35,7 @@ th-baito-interview-japanese.html
 th-baito-leaving-work.html
 th-baito-manager-report.html
 th-baito-master-guide.html
+th-baito-menu-explain.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
 th-baito-refuse-customer.html
@@ -165,6 +166,7 @@ th-restaurant-work-japanese.html
 th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
 th-sasete-kudasai-usage.html
+th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shinkansen-guide-japanese.html
 th-shiru-wakaru-difference.html
@@ -208,6 +210,7 @@ th-tsuite-kanshite-taishite-megutte.html
 th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
 th-ue-wa-usage.html
+th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
