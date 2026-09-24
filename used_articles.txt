@@ -41,6 +41,7 @@ th-baito-recommend-menu.html
 th-baito-refuse-customer.html
 th-baito-resume-japanese.html
 th-baito-shift-change.html
+th-baito-waiting-apology.html
 th-bakari-darake-mamire-difference.html
 th-bakari-ka-usage.html
 th-bank-account-japanese.html
@@ -206,10 +207,12 @@ th-tokyo-date.html
 th-tokyo-travel-guide.html
 th-totte-shite-taishite-difference.html
 th-train-japanese.html
+th-travel-guide.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
 th-ue-wa-usage.html
+th-ukemi-passive-guide.html
 th-ultimate-matcha-guide.html
 th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
