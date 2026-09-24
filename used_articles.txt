@@ -25,6 +25,7 @@ th-airport-survival-japanese.html
 th-akihabara-tour.html
 th-anime-japanese-learn.html
 th-apartment-hunting-japanese.html
+th-apartment-vocab-japanese.html
 th-baito-age-verification.html
 th-baito-apology-japanese.html
 th-baito-cashier-japanese.html
@@ -58,6 +59,7 @@ th-convenience-store-japanese.html
 th-convenience-store-vocab.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
+th-cushion-words-business.html
 th-customer-greeting-japanese.html
 th-dake-bakari-shika.html
 th-dake-ni-dake-atte-difference.html
@@ -70,6 +72,7 @@ th-emergency-tips-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-japanese-communication.html
 th-esd-japanese-study.html
+th-esd-salary-taxes-remittance.html
 th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
 th-esd-visa-japan.html
