@@ -57,6 +57,7 @@ th-convenience-store-baito.html
 th-convenience-store-hacks.html
 th-convenience-store-japanese.html
 th-convenience-store-vocab.html
+th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
 th-credit-card-japan.html
 th-cushion-words-business.html
@@ -67,6 +68,7 @@ th-dake-ni-dake-atte-difference.html
 th-dake-nomi-difference.html
 th-dakedenaku-nominarazu-difference.html
 th-dentist-japanese.html
+th-directions-japanese.html
 th-driver-license-japan.html
 th-drugstore-japanese.html
 th-emergency-tips-japanese.html
@@ -124,6 +126,7 @@ th-kara-ni-wa-usage.html
 th-karaoke-japanese.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
+th-koto-da-vs-mono-da-difference.html
 th-koto-ni-suru-naru-difference.html
 th-koto-no-difference.html
 th-kyoto-guide.html
