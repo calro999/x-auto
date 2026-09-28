@@ -4,6 +4,7 @@ otome/th-first-date-bangkok-japanese-guy.html
 otome/th-having-japanese-boyfriend-review.html
 otome/th-homesick-japanese-expat-care.html
 otome/th-how-to-chat-japanese-guy.html
+otome/th-japanese-conversation-skills-aizuchi.html
 otome/th-japanese-enryo.html
 otome/th-japanese-keigo-to-tamego.html
 otome/th-japanese-men-psychology-love.html
@@ -123,6 +124,7 @@ th-kanarazu-kitto-zettai-difference.html
 th-kansai-guide.html
 th-kanto-guide.html
 th-kara-ni-wa-usage.html
+th-kara-node-difference.html
 th-karaoke-japanese.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
@@ -157,6 +159,7 @@ th-ni-taishite-mukatte.html
 th-nikui-zurai-difference.html
 th-nishitewa-warini-difference.html
 th-o-kudasai-polite-request.html
+th-oki-ni-goto-ni-difference.html
 th-okonomiyaki-master.html
 th-onsen-etiquette-japanese.html
 th-osaka-guide.html
