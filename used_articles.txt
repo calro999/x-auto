@@ -138,6 +138,7 @@ th-love-phrases-japanese.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-masu-mase-difference.html
+th-mitai-rashii.html
 th-monjayaki-master.html
 th-mono-da-usage.html
 th-mono-koto-difference.html
@@ -188,6 +189,7 @@ th-sim-card-japanese.html
 th-slang-trending-japanese.html
 th-sou-youda-rashii.html
 th-ssw-industry-interview.html
+th-sumimasen-gomen-moushiwake-difference.html
 th-summer-festival-yui.html
 th-survival-master-guide.html
 th-sushi-pro-japanese.html
@@ -222,6 +224,7 @@ th-travel-guide.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
+th-uchi-aida-difference.html
 th-ue-wa-usage.html
 th-ukemi-passive-guide.html
 th-ultimate-matcha-guide.html
