@@ -51,6 +51,7 @@ th-bank-document-japanese.html
 th-bicycle-japan-rules.html
 th-business-etiquette.html
 th-chugoku-guide.html
+th-city-hall-japanese.html
 th-clothing-verbs.html
 th-coin-laundry-japan.html
 th-convenience-bag-japanese.html
@@ -81,6 +82,7 @@ th-esd-to-specified-skilled-worker.html
 th-esd-visa-change-job.html
 th-esd-visa-japan.html
 th-family-japanese.html
+th-festival-novel.html
 th-fuji-guide.html
 th-garbage-sorting-japanese.html
 th-gimi-gachi-ppoi-difference.html
@@ -102,6 +104,7 @@ th-hougaii-taraii-difference.html
 th-ijou-ika-miman-chou.html
 th-ijouwa-karaniwa-difference.html
 th-internet-setup-japan.html
+th-izakaya-conversation.html
 th-izakaya-extra-order-japanese.html
 th-izakaya-order-japanese.html
 th-izakaya-payment-japanese.html
