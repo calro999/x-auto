@@ -14,6 +14,7 @@ otome/th-long-distance-relationship-japan.html
 otome/th-long-distance-relationship-tips.html
 otome/th-marriage-traditional-modern-japan.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
+otome/th-secret-school-love-story.html
 otome/th-thai-culture-japanese-guy.html
 otome/th-what-to-talk-about-japanese-date.html
 otome/th-why-japanese-hard-to-understand.html
@@ -32,6 +33,7 @@ th-baito-apology-japanese.html
 th-baito-cashier-japanese.html
 th-baito-change-handover.html
 th-baito-colleague-talk.html
+th-baito-drink-vocab.html
 th-baito-greeting-japanese.html
 th-baito-interview-japanese.html
 th-baito-leaving-work.html
@@ -230,6 +232,7 @@ th-travel-guide.html
 th-tsuite-kanshite-taishite-megutte.html
 th-tsumori-yotei-difference.html
 th-tsurete-shitagatte-difference.html
+th-tsuujite-tooshite-difference.html
 th-uchi-aida-difference.html
 th-ue-wa-usage.html
 th-ukemi-passive-guide.html
