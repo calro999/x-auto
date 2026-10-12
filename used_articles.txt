@@ -129,6 +129,7 @@ th-kanto-guide.html
 th-kara-ni-wa-usage.html
 th-kara-node-difference.html
 th-karaoke-japanese.html
+th-keigo-comprehensive-guide.html
 th-kekkou-ii-difference.html
 th-koto-da-usage.html
 th-koto-da-vs-mono-da-difference.html
@@ -145,6 +146,7 @@ th-mitai-rashii.html
 th-monjayaki-master.html
 th-mono-da-usage.html
 th-mono-koto-difference.html
+th-moving-address-japanese.html
 th-muke-muki-difference.html
 th-mynumber-card-guide.html
 th-nagara-tsuide-parallel.html
@@ -163,6 +165,7 @@ th-ni-taishite-mukatte.html
 th-nikui-zurai-difference.html
 th-nishitewa-warini-difference.html
 th-o-kudasai-polite-request.html
+th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
 th-okonomiyaki-master.html
 th-onsen-etiquette-japanese.html
