@@ -113,6 +113,7 @@ th-izakaya-payment-japanese.html
 th-izakaya-vocab-japanese.html
 th-japanese-culture-game.html
 th-japanese-daily-etiquette.html
+th-japanese-daily-life.html
 th-jlpt-game.html
 th-jlpt-grammar-study.html
 th-jlpt-hiragana-katakana.html
@@ -187,6 +188,7 @@ th-resume-writing-japanese.html
 th-sae-koso-sura-difference.html
 th-saserareru-shieki-ukemi.html
 th-sasete-kudasai-usage.html
+th-self-introduction-japanese.html
 th-serving-food-japanese.html
 th-shikoku-guide.html
 th-shinkansen-guide-japanese.html
@@ -241,6 +243,7 @@ th-untranslatable-japanese.html
 th-ureshii-tanoshii-difference.html
 th-utilities-setup-japanese.html
 th-utility-bills-payment.html
+th-visa-renewal-japan.html
 th-visual-novel-thai.html
 th-wa-ga-difference.html
 th-wake-dewa-nai-usage.html
