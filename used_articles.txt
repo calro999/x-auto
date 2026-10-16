@@ -7,6 +7,7 @@ otome/th-how-to-chat-japanese-guy.html
 otome/th-japanese-conversation-skills-aizuchi.html
 otome/th-japanese-enryo.html
 otome/th-japanese-keigo-to-tamego.html
+otome/th-japanese-men-marriage-kekkon.html
 otome/th-japanese-men-psychology-love.html
 otome/th-learning-japanese-slang-rine.html
 otome/th-long-distance-gift-omiyage.html
@@ -141,6 +142,7 @@ th-koto-no-difference.html
 th-kyoto-guide.html
 th-kyushu-guide.html
 th-learn-japanese-free.html
+th-lost-item-police-japan.html
 th-love-phrases-japanese.html
 th-madeni-made-limit.html
 th-madeni-uchini-time.html
@@ -230,6 +232,7 @@ th-tokoro-bakari-time.html
 th-toku-chau-spoken.html
 th-tokyo-date.html
 th-tokyo-travel-guide.html
+th-top-cities-japanese.html
 th-totte-shite-taishite-difference.html
 th-train-japanese.html
 th-travel-guide.html
