@@ -142,6 +142,7 @@ th-kyoto-guide.html
 th-kyushu-guide.html
 th-learn-japanese-free.html
 th-love-phrases-japanese.html
+th-madeni-made-limit.html
 th-madeni-uchini-time.html
 th-mama-nagara-difference.html
 th-masu-mase-difference.html
@@ -167,6 +168,7 @@ th-ni-shitagatte-usage.html
 th-ni-taishite-mukatte.html
 th-nikui-zurai-difference.html
 th-nishitewa-warini-difference.html
+th-niyorto-hanashide-source.html
 th-o-kudasai-polite-request.html
 th-okagede-seide-difference.html
 th-oki-ni-goto-ni-difference.html
@@ -253,6 +255,7 @@ th-warini-usage.html
 th-weather-japanese.html
 th-wo-kara-movement.html
 th-wo-ni-difference.html
+th-ya-nado-toka-list.html
 th-yasui-gachi-difference.html
 th-yori-hodo-comparison.html
 th-youni-grammar-all.html
