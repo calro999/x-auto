@@ -2,5 +2,5 @@ file_name
 th-teshimau-owaru-regret.html
 sns_post
 
-The API key used for this request has reached its budget. Please [raise the key
+{"role":"assistant","reasoning":"We need to produce a tweet-like text: content about advantages/what
 yui-yuto.com/th-teshimau-owaru-regret
