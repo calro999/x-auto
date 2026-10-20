@@ -2,5 +2,5 @@ file_name
 th-love-phrases-japanese.html
 sns_post
 
-เปิดใจสู่ความรักสไตล์ญี่ปุ่น✨ เรียนรู้เทคนิคสารภาพรักและมารยาทที่ควรรู้ คลิกเลย👇  
+{"role":"assistant","reasoning":"We need to produce a Twitter post in Thai. Conditions:\n\n-
 yui-yuto.com/th-love-phrases-japanese
