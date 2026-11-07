@@ -1,9 +1,11 @@
+otome/th-why-japanese-hard-to-understand.html
 th-baito-leaving-work.html
 th-baito-master-guide.html
 th-baito-recommend-menu.html
 th-convenience-bag-japanese.html
 th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
+th-directions-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-visa-japan.html
 th-fuji-guide.html
@@ -24,6 +26,7 @@ th-top-cities-japanese.html
 th-tsumori-yotei-difference.html
 th-untranslatable-japanese.html
 th-utility-bills-payment.html
+th-visa-renewal-japan.html
 th-wa-ga-difference.html
 th-ya-nado-toka-list.html
 th-yori-hodo-comparison.html
