@@ -1,3 +1,4 @@
+otome/th-secret-school-love-story.html
 otome/th-why-japanese-hard-to-understand.html
 th-baito-leaving-work.html
 th-baito-master-guide.html
@@ -6,6 +7,7 @@ th-bakari-darake-mamire-difference.html
 th-convenience-bag-japanese.html
 th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
+th-dake-ni-dake-atte-difference.html
 th-directions-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-visa-japan.html
@@ -22,6 +24,7 @@ th-okonomiyaki-master.html
 th-saserareru-shieki-ukemi.html
 th-shiru-wakaru-difference.html
 th-sushi-pro-japanese.html
+th-te-mo-tatte-difference.html
 th-teshimau-owaru-regret.html
 th-tokoro-bakari-time.html
 th-top-cities-japanese.html
