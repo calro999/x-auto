@@ -2,6 +2,7 @@ otome/th-why-japanese-hard-to-understand.html
 th-baito-leaving-work.html
 th-baito-master-guide.html
 th-baito-recommend-menu.html
+th-bakari-darake-mamire-difference.html
 th-convenience-bag-japanese.html
 th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
@@ -19,11 +20,13 @@ th-love-phrases-japanese.html
 th-mama-nagara-difference.html
 th-okonomiyaki-master.html
 th-saserareru-shieki-ukemi.html
+th-shiru-wakaru-difference.html
 th-sushi-pro-japanese.html
 th-teshimau-owaru-regret.html
 th-tokoro-bakari-time.html
 th-top-cities-japanese.html
 th-tsumori-yotei-difference.html
+th-ukemi-passive-guide.html
 th-untranslatable-japanese.html
 th-utility-bills-payment.html
 th-visa-renewal-japan.html
