@@ -4,6 +4,7 @@ th-baito-leaving-work.html
 th-baito-master-guide.html
 th-baito-recommend-menu.html
 th-bakari-darake-mamire-difference.html
+th-bakari-ka-usage.html
 th-convenience-bag-japanese.html
 th-convenience-warmup-japanese.html
 th-corporate-interview-manners.html
@@ -14,6 +15,7 @@ th-esd-visa-japan.html
 th-fuji-guide.html
 th-internet-setup-japan.html
 th-izakaya-conversation.html
+th-japanese-daily-life.html
 th-jlpt-n2-vocabulary-500.html
 th-kara-node-difference.html
 th-koto-no-difference.html
@@ -21,6 +23,7 @@ th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-mama-nagara-difference.html
 th-okonomiyaki-master.html
+th-ramen-master-japanese.html
 th-saserareru-shieki-ukemi.html
 th-shiru-wakaru-difference.html
 th-sushi-pro-japanese.html
