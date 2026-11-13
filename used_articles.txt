@@ -13,6 +13,7 @@ th-directions-japanese.html
 th-esd-agency-kumiai-guide.html
 th-esd-visa-japan.html
 th-fuji-guide.html
+th-hotel-japanese.html
 th-internet-setup-japan.html
 th-izakaya-conversation.html
 th-japanese-daily-life.html
@@ -22,10 +23,12 @@ th-koto-no-difference.html
 th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-mama-nagara-difference.html
+th-monjayaki-master.html
 th-okonomiyaki-master.html
 th-ramen-master-japanese.html
 th-saserareru-shieki-ukemi.html
 th-shiru-wakaru-difference.html
+th-sumimasen-gomen-moushiwake-difference.html
 th-sushi-pro-japanese.html
 th-te-mo-tatte-difference.html
 th-teshimau-owaru-regret.html
