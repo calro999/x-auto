@@ -1,3 +1,5 @@
+otome/th-japanese-men-psychology-love.html
+otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-secret-school-love-story.html
 otome/th-why-japanese-hard-to-understand.html
 th-baito-leaving-work.html
@@ -26,6 +28,7 @@ th-learn-japanese-free.html
 th-love-phrases-japanese.html
 th-mama-nagara-difference.html
 th-monjayaki-master.html
+th-moving-address-japanese.html
 th-okonomiyaki-master.html
 th-ramen-master-japanese.html
 th-saserareru-shieki-ukemi.html
