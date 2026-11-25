@@ -1,3 +1,4 @@
+otome/th-dating-japanese-guy-rules.html
 otome/th-japanese-men-psychology-love.html
 otome/th-reading-the-air-kuuki-wo-yomu.html
 otome/th-secret-school-love-story.html
@@ -7,6 +8,7 @@ th-baito-leaving-work.html
 th-baito-master-guide.html
 th-baito-phone-japanese.html
 th-baito-recommend-menu.html
+th-baito-waiting-apology.html
 th-bakari-darake-mamire-difference.html
 th-bakari-ka-usage.html
 th-convenience-bag-japanese.html
@@ -17,6 +19,7 @@ th-dake-bakari-shika.html
 th-dake-ni-dake-atte-difference.html
 th-directions-japanese.html
 th-esd-agency-kumiai-guide.html
+th-esd-salary-taxes-remittance.html
 th-esd-visa-japan.html
 th-fuji-guide.html
 th-hokkaido-guide.html
